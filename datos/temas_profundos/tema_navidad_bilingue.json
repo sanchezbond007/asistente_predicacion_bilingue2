@@ -1,0 +1,73 @@
+{
+  "titulo": {
+    "es": "¿Celebraron los primeros cristianos la Navidad?",
+    "en": "¿Celebraron los primeros cristianos la Navidad?"
+  },
+  "contenido": {
+    "es": "Aunque millones de personas celebran la Navidad como el nacimiento de Jesús, muchos desconocen que los primeros cristianos no celebraban esta festividad. Desde la perspectiva de los Testigos de Jehová, la Navidad no tiene un origen bíblico, sino pagano.",
+    "en": "Aunque millones de personas celebran la Navidad como el nacimiento de Jesús, muchos desconocen que los primeros cristianos no celebraban esta festividad. Desde la perspectiva de los Testigos de Jehová, la Navidad no tiene un origen bíblico, sino pagano."
+  },
+  "conclusion": {
+    "es": "La evidencia bíblica e histórica muestra que la Navidad no fue celebrada por Jesús ni por los primeros cristianos. Su origen pagano y la ausencia de un mandato bíblico para su observancia llevan a los Testigos de Jehová a no celebrarla.",
+    "en": "La evidencia bíblica e histórica muestra que la Navidad no fue celebrada por Jesús ni por los primeros cristianos. Su origen pagano y la ausencia de un mandato bíblico para su observancia llevan a los Testigos de Jehová a no celebrarla."
+  },
+  "argumentos": {
+    "argumentos_biblicos": [
+      {
+        "titulo": "Jesús mandó conmemorar su muerte, no su nacimiento",
+        "cita": "Lucas 22:19",
+        "texto": "Sigan haciendo esto en memoria de mí."
+      },
+      {
+        "titulo": "La celebración de cumpleaños en la Biblia está ligada a sucesos trágicos",
+        "cita": "Marcos 6:21-29",
+        "texto": "En el cumpleaños de Herodes, mandó decapitar a Juan el Bautista."
+      }
+    ],
+    "argumentos_logicos": [
+      {
+        "titulo": "Celebrar algo que Jesús no pidió puede desviar la atención de su mensaje",
+        "explicacion": "En lugar de honrar a Jesús con acciones, muchos lo hacen con tradiciones sin fundamento bíblico."
+      },
+      {
+        "titulo": "Los adornos y costumbres navideñas provienen de rituales paganos",
+        "explicacion": "Árboles decorados, luces y regalos tienen orígenes en prácticas paganas, no en la adoración verdadera."
+      }
+    ],
+    "argumentos_historicos": [
+      {
+        "titulo": "La Navidad fue adoptada siglos después de Cristo",
+        "descripcion": "No fue hasta el siglo IV que se comenzó a celebrar el 25 de diciembre como el nacimiento de Cristo."
+      },
+      {
+        "titulo": "Enciclopedia Católica y otras fuentes lo confirman",
+        "descripcion": "Incluso fuentes religiosas reconocen que la fecha y las costumbres de la Navidad tienen orígenes no cristianos."
+      }
+    ],
+    "fuentes_recomendadas": [
+      "https://www.jw.org/es/biblioteca/revistas/wp20091201/navidad-origen-biblico/",
+      "https://wol.jw.org/es/wol/d/r4/lp-s/2003768",
+      "https://www.jw.org/es/biblioteca/libros/Ense%C3%B1a/jesus-nacimiento/"
+    ]
+  },
+  "secciones": [
+    {
+      "subtitulo": "La Biblia no menciona la fecha del nacimiento de Jesús",
+      "parrafos": [
+        "Este detalle indica que el nacimiento de Jesús no ocurrió en diciembre, ya que los pastores no estarían al aire libre en pleno invierno en Judea.",
+        "Lucas 2:8: Había pastores que vivían al aire libre y vigilaban sus rebaños durante la noche."
+      ]
+    },
+    {
+      "subtitulo": "Los primeros cristianos no celebraban cumpleaños",
+      "parrafos": [
+        "La Biblia registra celebraciones de cumpleaños solo en contextos paganos o negativos, como el del faraón o Herodes. Jesús nunca mandó que se celebrara su nacimiento.",
+        "Eclesiastés 7:1: Mejor es el día de la muerte que el día del nacimiento."
+      ]
+    },
+    {
+      "subtitulo": "La Navidad tiene raíces paganas",
+      "parrafos": []
+    }
+  ]
+}
