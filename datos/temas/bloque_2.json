@@ -1,0 +1,138 @@
+{
+  "bloque": 2,
+  "descripcion": {
+    "es": "Este bloque presenta enseñanzas bíblicas sobre el pecado, la muerte y la verdadera adoración.",
+    "en": "This block presents Bible teachings about sin, death, and true worship."
+  },
+  "temas": [
+    {
+      "titulo": {
+        "es": "¿Cómo vemos el futuro según la Biblia?",
+        "en": "How does the Bible view the future?"
+      },
+      "respuesta": {
+        "es": "Dios promete un mundo nuevo lleno de justicia.",
+        "en": "God promises a new world filled with righteousness."
+      },
+      "cita": "2 Pedro 3:13",
+      "categoria": "Esperanza",
+      "link": "https://www.jw.org/es/biblioteca/libros/buena-noticia-mundo-nuevo/"
+    },
+    {
+      "titulo": {
+        "es": "¿Qué es el pecado?",
+        "en": "What is sin?"
+      },
+      "respuesta": {
+        "es": "Es una violación de la ley de Dios, heredada desde Adán.",
+        "en": "It is a violation of God’s law, inherited from Adam."
+      },
+      "cita": "Romanos 5:12",
+      "categoria": "Doctrina",
+      "link": "https://www.jw.org/es/biblioteca/revistas/g201411/que-es-el-pecado/"
+    },
+    {
+      "titulo": {
+        "es": "¿Quién fue Adán?",
+        "en": "Who was Adam?"
+      },
+      "respuesta": {
+        "es": "El primer hombre creado por Dios. Su desobediencia trajo el pecado.",
+        "en": "The first man created by God. His disobedience brought sin."
+      },
+      "cita": "Génesis 2:7",
+      "categoria": "Doctrina",
+      "link": "https://www.jw.org/es/biblioteca/revistas/wp20140701/adán-primer-hombre/"
+    },
+    {
+      "titulo": {
+        "es": "¿Qué es el alma según la Biblia?",
+        "en": "What is the soul according to the Bible?"
+      },
+      "respuesta": {
+        "es": "El alma es la persona. No es inmortal ni sobrevive la muerte.",
+        "en": "The soul is the person. It is not immortal and does not survive death."
+      },
+      "cita": "Ezequiel 18:4",
+      "categoria": "Debate Bíblico",
+      "link": "https://www.jw.org/es/biblioteca/revistas/g201409/alma-es-inmortal/"
+    },
+    {
+      "titulo": {
+        "es": "¿Qué sucede cuando alguien muere?",
+        "en": "What happens when someone dies?"
+      },
+      "respuesta": {
+        "es": "Deja de existir. No hay conciencia después de la muerte.",
+        "en": "They cease to exist. There is no consciousness after death."
+      },
+      "cita": "Eclesiastés 9:5,10",
+      "categoria": "Doctrina",
+      "link": "https://www.jw.org/es/biblioteca/revistas/wp20131101/vida-despues-muerte/"
+    },
+    {
+      "titulo": {
+        "es": "¿Dónde están los muertos?",
+        "en": "Where are the dead?"
+      },
+      "respuesta": {
+        "es": "En el Seol o Hades, el sepulcro común. Esperan la resurrección.",
+        "en": "In Sheol or Hades, the common grave. They await the resurrection."
+      },
+      "cita": "Hechos 2:29,34",
+      "categoria": "Doctrina",
+      "link": "https://www.jw.org/es/biblioteca/revistas/g201307/seol-hades/"
+    },
+    {
+      "titulo": {
+        "es": "¿Qué es el espíritu?",
+        "en": "What is the spirit?"
+      },
+      "respuesta": {
+        "es": "Es la fuerza de vida que Jehová da, no una entidad consciente.",
+        "en": "It is the life force given by Jehovah, not a conscious entity."
+      },
+      "cita": "Salmo 146:4",
+      "categoria": "Doctrina",
+      "link": "https://www.jw.org/es/biblioteca/revistas/g201311/espiritu-alma/"
+    },
+    {
+      "titulo": {
+        "es": "¿Cómo debemos ver a Jesucristo?",
+        "en": "How should we view Jesus Christ?"
+      },
+      "respuesta": {
+        "es": "Como el Hijo de Dios y nuestro Rey designado.",
+        "en": "As the Son of God and our appointed King."
+      },
+      "cita": "Lucas 1:32-33",
+      "categoria": "Doctrina"
+    },
+    {
+      "titulo": {
+        "es": "¿Qué enseña la Biblia sobre la idolatría?",
+        "en": "What does the Bible teach about idolatry?"
+      },
+      "respuesta": {
+        "es": "Jehová prohíbe adorar imágenes. Solo Él merece adoración.",
+        "en": "Jehovah forbids worshipping images. Only He deserves worship."
+      },
+      "cita": "Éxodo 20:4-5",
+      "categoria": "Conducta Cristiana",
+      "link": "https://www.jw.org/es/biblioteca/libros/buena-noticia-idolatria/"
+    },
+    {
+      "titulo": {
+        "es": "¿Qué dice la Biblia sobre el infierno?",
+        "en": "What does the Bible say about hell?"
+      },
+      "respuesta": {
+        "es": "No es un lugar de tormento. Es la condición de los muertos.",
+        "en": "It is not a place of torment. It is the condition of the dead."
+      },
+      "cita": "Eclesiastés 9:10",
+      "categoria": "Debate Bíblico",
+      "link": "https://www.jw.org/es/biblioteca/libros/buena-noticia-infierno/"
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "bloque": 4,
+  "descripcion": {
+    "es": "Este bloque trata sobre la fe, el estudio personal, la obediencia a Dios y la esperanza futura.",
+    "en": "This block addresses faith, personal study, obedience to God, and future hope."
+  },
+  "temas": [
+    {
+      "titulo": {
+        "es": "¿Qué significa tener fe?",
+        "en": "What does it mean to have faith?"
+      },
+      "respuesta": {
+        "es": "Es confiar plenamente en las promesas de Jehová, aunque no las veamos aún.",
+        "en": "It means to fully trust in Jehovah’s promises, even if we do not see them yet."
+      },
+      "cita": "Hebreos 11:1",
+      "categoria": "Doctrina"
+    },
+    {
+      "titulo": {
+        "es": "¿Por qué estudiar la Biblia regularmente?",
+        "en": "Why study the Bible regularly?"
+      },
+      "respuesta": {
+        "es": "Nos ayuda a conocer mejor a Dios, fortalecer la fe y tomar buenas decisiones.",
+        "en": "It helps us know God better, strengthen our faith, and make good decisions."
+      },
+      "cita": "Salmo 1:1-2",
+      "categoria": "Conducta"
+    },
+    {
+      "titulo": {
+        "es": "¿Qué es la conciencia y cómo educarla?",
+        "en": "What is conscience and how can we train it?"
+      },
+      "respuesta": {
+        "es": "Es un sentido moral que debe ser guiado por principios bíblicos.",
+        "en": "It is a moral sense that should be guided by Bible principles."
+      },
+      "cita": "Romanos 2:15",
+      "categoria": "Conducta"
+    },
+    {
+      "titulo": {
+        "es": "¿Por qué obedecer a Jehová?",
+        "en": "Why obey Jehovah?"
+      },
+      "respuesta": {
+        "es": "Porque es nuestro Creador y su guía siempre es para nuestro bien.",
+        "en": "Because He is our Creator and His guidance is always for our good."
+      },
+      "cita": "Isaías 48:17-18",
+      "categoria": "Doctrina"
+    },
+    {
+      "titulo": {
+        "es": "¿Qué es el nuevo mundo prometido por Dios?",
+        "en": "What is the new world God promised?"
+      },
+      "respuesta": {
+        "es": "Es la Tierra transformada en un paraíso donde reinará la justicia.",
+        "en": "It is the Earth transformed into a paradise where righteousness will rule."
+      },
+      "cita": "2 Pedro 3:13",
+      "categoria": "Esperanza",
+      "link": "https://www.jw.org/es/biblioteca/libros/buena-noticia-mundo-nuevo/"
+    },
+    {
+      "titulo": {
+        "es": "¿Por qué debemos predicar?",
+        "en": "Why should we preach?"
+      },
+      "respuesta": {
+        "es": "Es un mandato de Jesús y una forma de mostrar amor al prójimo.",
+        "en": "It is a command from Jesus and a way to show love to our neighbor."
+      },
+      "cita": "Mateo 24:14",
+      "categoria": "Conducta"
+    },
+    {
+      "titulo": {
+        "es": "¿Qué beneficios trae servir a Jehová?",
+        "en": "What benefits come from serving Jehovah?"
+      },
+      "respuesta": {
+        "es": "Paz interior, esperanza segura y una relación estrecha con Dios.",
+        "en": "Inner peace, solid hope, and a close relationship with God."
+      },
+      "cita": "Salmo 119:165",
+      "categoria": "Esperanza"
+    },
+    {
+      "titulo": {
+        "es": "¿Cómo demostrar que amamos a Dios?",
+        "en": "How can we show we love God?"
+      },
+      "respuesta": {
+        "es": "Guardando sus mandamientos y viviendo según sus normas.",
+        "en": "By obeying His commandments and living by His standards."
+      },
+      "cita": "1 Juan 5:3",
+      "categoria": "Doctrina"
+    },
+    {
+      "titulo": {
+        "es": "¿Qué actitud tener ante las pruebas?",
+        "en": "What attitude should we have in trials?"
+      },
+      "respuesta": {
+        "es": "Confiar en Jehová, quien nos da fuerzas para soportarlas.",
+        "en": "Trust in Jehovah, who gives us strength to endure them."
+      },
+      "cita": "1 Corintios 10:13",
+      "categoria": "Esperanza"
+    },
+    {
+      "titulo": {
+        "es": "¿Qué enseña la Biblia sobre el matrimonio?",
+        "en": "What does the Bible teach about marriage?"
+      },
+      "respuesta": {
+        "es": "Es una unión sagrada entre un hombre y una mujer, basada en el amor y el respeto.",
+        "en": "It is a sacred union between a man and a woman, based on love and respect."
+      },
+      "cita": "Génesis 2:24",
+      "categoria": "Conducta"
+    }
+  ]
+}

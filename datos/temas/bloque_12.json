@@ -1,0 +1,129 @@
+{
+  "bloque": 12,
+  "descripcion": {
+    "es": "Este bloque destaca principios cristianos sobre el trabajo, el alcohol, la justicia, el uso de redes y el lenguaje.",
+    "en": "This block highlights Christian principles on work, alcohol, justice, social media, and speech."
+  },
+  "temas": [
+    {
+      "titulo": {
+        "es": "¿Por qué debemos trabajar duro?",
+        "en": "Why should we work hard?"
+      },
+      "respuesta": {
+        "es": "Porque es parte del propósito de Dios y nos da satisfacción.",
+        "en": "Because it is part of God's purpose and gives us satisfaction."
+      },
+      "cita": "Eclesiastés 3:13",
+      "categoria": "Conducta"
+    },
+    {
+      "titulo": {
+        "es": "¿Qué enseña la Biblia sobre el alcohol?",
+        "en": "What does the Bible teach about alcohol?"
+      },
+      "respuesta": {
+        "es": "No prohíbe beber, pero sí condena el abuso y la embriaguez.",
+        "en": "It does not forbid drinking, but it condemns abuse and drunkenness."
+      },
+      "cita": "Efesios 5:18",
+      "categoria": "Conducta"
+    },
+    {
+      "titulo": {
+        "es": "¿Deben los cristianos obedecer las leyes humanas?",
+        "en": "Should Christians obey human laws?"
+      },
+      "respuesta": {
+        "es": "Sí, siempre que no contradigan la ley de Dios.",
+        "en": "Yes, as long as they do not contradict God's law."
+      },
+      "cita": "Tito 3:1",
+      "categoria": "Doctrina"
+    },
+    {
+      "titulo": {
+        "es": "¿Qué esperanza da Dios a los que sufren injusticias?",
+        "en": "What hope does God give to those suffering injustice?"
+      },
+      "respuesta": {
+        "es": "Dios traerá justicia mediante su Reino y recompensará a los fieles.",
+        "en": "God will bring justice through His Kingdom and reward the faithful."
+      },
+      "cita": "Salmo 103:6",
+      "categoria": "Esperanza"
+    },
+    {
+      "titulo": {
+        "es": "¿Cómo debemos tratar a los animales?",
+        "en": "How should we treat animals?"
+      },
+      "respuesta": {
+        "es": "Con respeto y cuidado, reconociendo que son creación de Dios.",
+        "en": "With respect and care, recognizing they are God's creation."
+      },
+      "cita": "Proverbios 12:10",
+      "categoria": "Conducta"
+    },
+    {
+      "titulo": {
+        "es": "¿Qué dice la Biblia sobre el divorcio?",
+        "en": "What does the Bible say about divorce?"
+      },
+      "respuesta": {
+        "es": "Solo se permite por inmoralidad sexual.",
+        "en": "It is only permitted in cases of sexual immorality."
+      },
+      "cita": "Mateo 19:9",
+      "categoria": "Debates"
+    },
+    {
+      "titulo": {
+        "es": "¿Qué enseña la Biblia sobre las redes sociales?",
+        "en": "What does the Bible teach about social media?"
+      },
+      "respuesta": {
+        "es": "Debemos usarlas con sabiduría y evitar contenido perjudicial.",
+        "en": "We should use them wisely and avoid harmful content."
+      },
+      "cita": "Filipenses 4:8",
+      "categoria": "Conducta"
+    },
+    {
+      "titulo": {
+        "es": "¿Qué significa seguir el ejemplo de Cristo?",
+        "en": "What does it mean to follow Christ’s example?"
+      },
+      "respuesta": {
+        "es": "Imitar su amor, humildad, fe y obediencia a Jehová.",
+        "en": "To imitate His love, humility, faith, and obedience to Jehovah."
+      },
+      "cita": "1 Pedro 2:21",
+      "categoria": "Doctrina"
+    },
+    {
+      "titulo": {
+        "es": "¿Cómo podemos prepararnos para el futuro?",
+        "en": "How can we prepare for the future?"
+      },
+      "respuesta": {
+        "es": "Fortaleciendo nuestra relación con Jehová y confiando en sus promesas.",
+        "en": "By strengthening our relationship with Jehovah and trusting in His promises."
+      },
+      "cita": "Isaías 33:6",
+      "categoria": "Esperanza"
+    },
+    {
+      "titulo": {
+        "es": "¿Qué dice la Biblia sobre el lenguaje ofensivo?",
+        "en": "What does the Bible say about offensive language?"
+      },
+      "respuesta": {
+        "es": "Debe evitarse por completo; nuestras palabras deben edificar.",
+        "en": "It should be completely avoided; our words should build up others."
+      },
+      "cita": "Colosenses 4:6",
+      "categoria": "Conducta"
+    }
+  ]
+}

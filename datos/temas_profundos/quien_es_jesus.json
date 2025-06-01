@@ -1,0 +1,34 @@
+{
+  "titulo": {
+    "es": "¿Quién es Jesucristo?",
+    "en": "Who is Jesus Christ?"
+  },
+  "contenido": {
+    "es": "Jesucristo es el Hijo de Dios. No es el Dios Todopoderoso, sino que fue creado por Jehová. Fue enviado a la Tierra para enseñar la verdad, dar su vida por la humanidad y mostrar el camino a la vida eterna. Sus enseñanzas y ejemplo nos ayudan a acercarnos a Dios.",
+    "en": "Jesus Christ is the Son of God. He is not Almighty God, but was created by Jehovah. He was sent to Earth to teach the truth, give his life for humankind, and show the path to eternal life. His teachings and example help us draw close to God."
+  },
+  "versiculos": [
+    {
+      "cita": "Juan 14:6",
+      "texto": {
+        "es": "Jesús le dijo: “Yo soy el camino, la verdad y la vida. Nadie puede llegar al Padre si no es por medio de mí”.",
+        "en": "Jesus said to him: 'I am the way and the truth and the life. No one comes to the Father except through me.'"
+      }
+    },
+    {
+      "cita": "Colosenses 1:15",
+      "texto": {
+        "es": "Él es la imagen del Dios invisible, el primogénito de toda la creación.",
+        "en": "He is the image of the invisible God, the firstborn of all creation."
+      }
+    }
+  ],
+  "fuente": {
+    "es": "https://www.jw.org/es/biblioteca/revistas/wp20140101/quien-es-jesucristo/",
+    "en": "https://www.jw.org/en/library/magazines/wp20140101/who-is-jesus-christ/"
+  },
+  "copyright": {
+    "es": "© 2024 Watch Tower Bible and Tract Society of Pennsylvania. Usado con fines educativos sin ánimo de lucro.",
+    "en": "© 2024 Watch Tower Bible and Tract Society of Pennsylvania. Used for educational, non-commercial purposes."
+  }
+}

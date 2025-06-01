@@ -1,0 +1,129 @@
+{
+  "bloque": 17,
+  "descripcion": {
+    "es": "Temas sobre conducta cristiana, oración, obediencia y la esperanza para la Tierra.",
+    "en": "Topics on Christian conduct, prayer, obedience, and hope for the Earth."
+  },
+  "temas": [
+    {
+      "titulo": {
+        "es": "¿Qué propósito tiene el Reino de Dios?",
+        "en": "What is the purpose of God's Kingdom?"
+      },
+      "respuesta": {
+        "es": "Acabar con la maldad y traer bendiciones eternas.",
+        "en": "To end wickedness and bring eternal blessings."
+      },
+      "cita": "Daniel 2:44",
+      "categoria": "Doctrina"
+    },
+    {
+      "titulo": {
+        "es": "¿Qué enseña la Biblia sobre el egoísmo?",
+        "en": "What does the Bible teach about selfishness?"
+      },
+      "respuesta": {
+        "es": "Debemos poner los intereses de los demás por encima de los nuestros.",
+        "en": "We should put others' interests above our own."
+      },
+      "cita": "Filipenses 2:3-4",
+      "categoria": "Conducta"
+    },
+    {
+      "titulo": {
+        "es": "¿Cómo podemos acercarnos a Dios?",
+        "en": "How can we draw close to God?"
+      },
+      "respuesta": {
+        "es": "A través de la oración y el estudio de su Palabra.",
+        "en": "Through prayer and studying His Word."
+      },
+      "cita": "Santiago 4:8",
+      "categoria": "Doctrina"
+    },
+    {
+      "titulo": {
+        "es": "¿Qué valor tiene la oración según la Biblia?",
+        "en": "What value does prayer have according to the Bible?"
+      },
+      "respuesta": {
+        "es": "Nos acerca a Dios y nos ayuda a sobrellevar nuestras cargas.",
+        "en": "It draws us closer to God and helps us carry our burdens."
+      },
+      "cita": "Filipenses 4:6-7",
+      "categoria": "Doctrina"
+    },
+    {
+      "titulo": {
+        "es": "¿Qué enseña la Biblia sobre la obediencia?",
+        "en": "What does the Bible teach about obedience?"
+      },
+      "respuesta": {
+        "es": "La obediencia a Dios trae bendiciones.",
+        "en": "Obedience to God brings blessings."
+      },
+      "cita": "Deuteronomio 28:1-2",
+      "categoria": "Conducta"
+    },
+    {
+      "titulo": {
+        "es": "¿Qué esperanza hay para la Tierra?",
+        "en": "What hope is there for the Earth?"
+      },
+      "respuesta": {
+        "es": "Dios promete una Tierra nueva y justa.",
+        "en": "God promises a new and righteous Earth."
+      },
+      "cita": "Salmo 37:29",
+      "categoria": "Esperanza"
+    },
+    {
+      "titulo": {
+        "es": "¿Qué enseña la Biblia sobre la violencia?",
+        "en": "What does the Bible teach about violence?"
+      },
+      "respuesta": {
+        "es": "Jehová aborrece la violencia y ama la paz.",
+        "en": "Jehovah hates violence and loves peace."
+      },
+      "cita": "Salmo 11:5",
+      "categoria": "Conducta"
+    },
+    {
+      "titulo": {
+        "es": "¿Qué dice la Biblia sobre la moralidad sexual?",
+        "en": "What does the Bible say about sexual morality?"
+      },
+      "respuesta": {
+        "es": "Dios espera que evitemos la inmoralidad y seamos puros.",
+        "en": "God expects us to avoid immorality and remain pure."
+      },
+      "cita": "1 Tesalonicenses 4:3-5",
+      "categoria": "Conducta"
+    },
+    {
+      "titulo": {
+        "es": "¿Qué es el espíritu santo según la Biblia?",
+        "en": "What is the holy spirit according to the Bible?"
+      },
+      "respuesta": {
+        "es": "Es la fuerza activa de Dios que guía y fortalece.",
+        "en": "It is God's active force that guides and strengthens."
+      },
+      "cita": "Hechos 1:8",
+      "categoria": "Doctrina"
+    },
+    {
+      "titulo": {
+        "es": "¿Qué enseña la Biblia sobre el perdón?",
+        "en": "What does the Bible teach about forgiveness?"
+      },
+      "respuesta": {
+        "es": "Debemos perdonar como Jehová nos perdona.",
+        "en": "We must forgive as Jehovah forgives us."
+      },
+      "cita": "Colosenses 3:13",
+      "categoria": "Conducta"
+    }
+  ]
+}

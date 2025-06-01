@@ -1,0 +1,39 @@
+# Carpetas y archivos innecesarios para Git
+
+# Archivos compilados de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs de Kivy
+.kivy/
+.kivy/logs/
+*.log
+
+# Entornos virtuales
+venv/
+env/
+ENV/
+.venv/
+
+# Configuraciones de Pydroid3
+/storage/emulated/0/prueba_asistente_predicacion_bilingüe/.kivy/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos temporales de editores
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+
+# Archivos de compilación
+build/
+bin/
+*.apk
+
+# Archivos personales (si decides ignorarlos)
+usuarios.json

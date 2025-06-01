@@ -1,0 +1,129 @@
+{
+  "bloque": 20,
+  "descripcion": {
+    "es": "Temas sobre lenguaje limpio, arrepentimiento, paciencia, riqueza, esperanza y hospitalidad.",
+    "en": "Topics about clean speech, repentance, patience, wealth, hope, and hospitality."
+  },
+  "temas": [
+    {
+      "titulo": {
+        "es": "¿Deben los cristianos usar lenguaje limpio?",
+        "en": "Should Christians use clean speech?"
+      },
+      "respuesta": {
+        "es": "Sí, porque las malas palabras corrompen y no agradan a Dios.",
+        "en": "Yes, because foul language corrupts and does not please God."
+      },
+      "cita": "Efesios 4:29",
+      "categoria": "Conducta"
+    },
+    {
+      "titulo": {
+        "es": "¿Es bíblico el arrepentimiento?",
+        "en": "Is repentance biblical?"
+      },
+      "respuesta": {
+        "es": "Sí, el arrepentimiento sincero es necesario para recibir el perdón de Dios.",
+        "en": "Yes, sincere repentance is necessary to receive God's forgiveness."
+      },
+      "cita": "Hechos 3:19",
+      "categoria": "Doctrina"
+    },
+    {
+      "titulo": {
+        "es": "¿Cómo se demuestra la paciencia cristiana?",
+        "en": "How is Christian patience demonstrated?"
+      },
+      "respuesta": {
+        "es": "Al soportar pruebas sin perder la fe y seguir confiando en Jehová.",
+        "en": "By enduring trials without losing faith and continuing to trust in Jehovah."
+      },
+      "cita": "Romanos 12:12",
+      "categoria": "Conducta"
+    },
+    {
+      "titulo": {
+        "es": "¿Qué dice la Biblia sobre la riqueza?",
+        "en": "What does the Bible say about wealth?"
+      },
+      "respuesta": {
+        "es": "La riqueza no garantiza felicidad ni salvación; debemos ser ricos para con Dios.",
+        "en": "Wealth does not guarantee happiness or salvation; we must be rich toward God."
+      },
+      "cita": "Lucas 12:15",
+      "categoria": "Debates"
+    },
+    {
+      "titulo": {
+        "es": "¿Qué es la esperanza cristiana?",
+        "en": "What is Christian hope?"
+      },
+      "respuesta": {
+        "es": "La esperanza de vida eterna en un paraíso en la Tierra bajo el Reino de Dios.",
+        "en": "The hope of everlasting life in a paradise on Earth under God's Kingdom."
+      },
+      "cita": "Juan 17:3",
+      "categoria": "Esperanza"
+    },
+    {
+      "titulo": {
+        "es": "¿Por qué debemos ser hospitalarios?",
+        "en": "Why should we be hospitable?"
+      },
+      "respuesta": {
+        "es": "Porque es una muestra de amor y generosidad cristiana.",
+        "en": "Because it is a display of Christian love and generosity."
+      },
+      "cita": "Hebreos 13:2",
+      "categoria": "Conducta"
+    },
+    {
+      "titulo": {
+        "es": "¿Cómo podemos luchar contra la ansiedad?",
+        "en": "How can we fight anxiety?"
+      },
+      "respuesta": {
+        "es": "Orando a Dios y confiando en su poder para ayudarnos.",
+        "en": "By praying to God and trusting in His power to help us."
+      },
+      "cita": "Filipenses 4:6-7",
+      "categoria": "Conducta"
+    },
+    {
+      "titulo": {
+        "es": "¿Cómo debemos tratar a los enemigos?",
+        "en": "How should we treat enemies?"
+      },
+      "respuesta": {
+        "es": "Con amor y sin deseo de venganza, como enseñó Jesús.",
+        "en": "With love and without desire for revenge, as Jesus taught."
+      },
+      "cita": "Mateo 5:44",
+      "categoria": "Conducta"
+    },
+    {
+      "titulo": {
+        "es": "¿Qué muestra que estamos en los últimos días?",
+        "en": "What shows that we are in the last days?"
+      },
+      "respuesta": {
+        "es": "Las señales como guerras, desobediencia y falta de amor que profetizó la Biblia.",
+        "en": "Signs like wars, disobedience, and lack of love as prophesied in the Bible."
+      },
+      "cita": "2 Timoteo 3:1-5",
+      "categoria": "Debates"
+    },
+    {
+      "titulo": {
+        "es": "¿Cómo usar bien nuestro tiempo?",
+        "en": "How can we use our time well?"
+      },
+      "respuesta": {
+        "es": "Dedicando tiempo a cosas espirituales y productivas.",
+        "en": "By dedicating time to spiritual and productive things."
+      },
+      "cita": "Efesios 5:15-16",
+      "categoria": "Conducta"
+    }
+  ]
+}
