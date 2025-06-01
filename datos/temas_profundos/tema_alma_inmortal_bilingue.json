@@ -1,0 +1,143 @@
+{
+  "titulo": {
+    "es": "¿Es el alma inmortal según la Biblia?",
+    "en": "Is the Soul Immortal According to the Bible?"
+  },
+  "argumentos": {
+    "argumentos_biblicos": [
+      {
+        "titulo": {
+          "es": "El alma no es inmortal",
+          "en": ""
+        },
+        "cita": "Mateo 10:28",
+        "texto": {
+          "es": "Teman a aquel que puede destruir tanto el alma como el cuerpo en la Gehena.",
+          "en": ""
+        }
+      },
+      {
+        "titulo": {
+          "es": "El alma representa a la persona entera",
+          "en": ""
+        },
+        "cita": "Hechos 3:23",
+        "texto": {
+          "es": "Toda alma que no escuche a ese profeta será eliminada.",
+          "en": ""
+        }
+      }
+    ],
+    "argumentos_logicos": [
+      {
+        "titulo": {
+          "es": "Si el alma fuera inmortal, no necesitaríamos la resurrección",
+          "en": ""
+        },
+        "explicacion": {
+          "es": "La esperanza cristiana se basa en que Dios levantará a los muertos. Si el alma no muriera, la resurrección sería innecesaria.",
+          "en": ""
+        }
+      },
+      {
+        "titulo": {
+          "es": "La doctrina del alma inmortal contradice el sacrificio de Jesús",
+          "en": ""
+        },
+        "explicacion": {
+          "es": "Jesús murió para redimir a los humanos de la muerte, no para liberar un alma inmortal. Su sacrificio pagó el precio del pecado: la muerte.",
+          "en": ""
+        }
+      }
+    ],
+    "argumentos_historicos": [
+      {
+        "titulo": {
+          "es": "La creencia en el alma inmortal proviene de la filosofía griega",
+          "en": ""
+        },
+        "descripcion": {
+          "es": "Platón enseñó que el alma es inmortal, y esa idea fue adoptada por religiones después del siglo II. No se originó en las Escrituras.",
+          "en": ""
+        }
+      },
+      {
+        "titulo": {
+          "es": "Los judíos del Antiguo Testamento no creían en un alma inmortal",
+          "en": ""
+        },
+        "descripcion": {
+          "es": "Los fieles de la antigüedad creían en una resurrección futura, no en una vida consciente después de la muerte.",
+          "en": ""
+        }
+      }
+    ],
+    "fuentes_recomendadas": [
+      "https://www.jw.org/es/biblioteca/revistas/g201411/alma-es-inmortal/",
+      "https://wol.jw.org/es/wol/d/r4/lp-s/1101989274",
+      "https://www.jw.org/es/biblioteca/libros/Enseña/que-es-el-alma/"
+    ]
+  },
+  "conclusion": {
+    "es": "La enseñanza bíblica muestra que el alma no es inmortal. El alma es la persona completa, que muere al morir el cuerpo. La verdadera esperanza para los muertos es la resurrección que Dios promete mediante Jesús.",
+    "en": ""
+  },
+  "contenido": {
+    "es": "La mayoría de las religiones enseñan que el alma es inmortal y que sigue viviendo después de la muerte. Sin embargo, la Biblia enseña lo contrario: que el alma puede morir y que el ser humano no tiene una parte separada que continúe consciente después de la muerte.",
+    "en": ""
+  },
+  "secciones": [
+    {
+      "subtitulo": {
+        "es": "La Biblia enseña que el alma puede morir",
+        "en": ""
+      },
+      "parrafos": [
+        {
+          "es": "Si el alma fuera inmortal, no podría morir. Este versículo muestra claramente que el alma no es una entidad eterna e indestructible.",
+          "en": ""
+        },
+        {
+          "es": "Ezequiel 18:4: El alma que peque, esa morirá.",
+          "en": ""
+        }
+      ]
+    },
+    {
+      "subtitulo": {
+        "es": "El alma se refiere a la persona completa, no a una parte separada",
+        "en": ""
+      },
+      "parrafos": [
+        {
+          "es": "Adán no recibió un alma; él 'vino a ser' un alma. En la Biblia, el alma es el ser viviente completo, no algo que vive separadamente dentro del cuerpo.",
+          "en": ""
+        },
+        {
+          "es": "Génesis 2:7: El hombre vino a ser un alma viviente.",
+          "en": ""
+        }
+      ]
+    },
+    {
+      "subtitulo": {
+        "es": "Los muertos están inconscientes, no conscientes en otra dimensión",
+        "en": ""
+      },
+      "parrafos": [
+        {
+          "es": "Estas escrituras muestran que los muertos no continúan viviendo en otra parte. No piensan, no sienten, y no recuerdan nada.",
+          "en": ""
+        },
+        {
+          "es": "Eclesiastés 9:5: Los vivos saben que morirán, pero los muertos no saben nada.",
+          "en": ""
+        },
+        {
+          "es": "Salmo 146:4: Ese día perecen sus pensamientos.",
+          "en": ""
+        }
+      ]
+    }
+  ]
+}
