@@ -14,7 +14,7 @@
     "pantallas/menu.py",
     "pantallas/sugerencias.py",
     "pantallas/temas_profundos.py",
-    "datos/temas/tema_apostasia_bilingue.json",
+    "datos/temas_profundos/tema_apostasia_bilingue.json",
     "datos/version.json"
   ]
 }
