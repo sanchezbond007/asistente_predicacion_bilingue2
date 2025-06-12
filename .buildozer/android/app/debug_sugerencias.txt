@@ -1,0 +1,55 @@
+=== INICIANDO CARGA DE USUARIO ===
+❌ Archivo usuario_actual.json NO EXISTE
+=== INICIANDO CARGA DE USUARIO ===
+❌ Archivo usuario_actual.json NO EXISTE
+=== INICIANDO CARGA DE USUARIO ===
+❌ Archivo usuario_actual.json NO EXISTE
+=== INICIANDO CARGA DE USUARIO ===
+❌ Archivo usuario_actual.json NO EXISTE
+=== INICIANDO CARGA DE USUARIO ===
+❌ Archivo usuario_actual.json NO EXISTE - CREANDO AUTOMÁTICAMENTE
+
+✅ ARCHIVO CREADO AUTOMÁTICAMENTE:
+   - Usuario: usuario_auto
+   - Idioma: es
+   - Archivo: usuario_actual.json
+
+=== INICIANDO CARGA DE USUARIO ===
+
+📁 ARCHIVO USUARIO_ACTUAL.JSON:
+   - Contenido completo: {'usuario': 'usuario_auto', 'idioma': 'es'}
+   - Usuario: usuario_auto
+   - Idioma raw: 'es'
+   - Tipo idioma: <class 'str'>
+
+
+🎯 RESULTADO FINAL:
+   - Usuario: usuario_auto
+   - Idioma procesado: 'es'
+
+=== INICIANDO CARGA DE USUARIO ===
+
+📁 ARCHIVO USUARIO_ACTUAL.JSON:
+   - Contenido completo: {'usuario': 'usuario_auto', 'idioma': 'es'}
+   - Usuario: usuario_auto
+   - Idioma raw: 'es'
+   - Tipo idioma: <class 'str'>
+
+
+🎯 RESULTADO FINAL:
+   - Usuario: usuario_auto
+   - Idioma procesado: 'es'
+
+=== INICIANDO CARGA DE USUARIO ===
+
+📁 ARCHIVO USUARIO_ACTUAL.JSON:
+   - Contenido completo: {'usuario': 'usuario_auto', 'idioma': 'es'}
+   - Usuario: usuario_auto
+   - Idioma raw: 'es'
+   - Tipo idioma: <class 'str'>
+
+
+🎯 RESULTADO FINAL:
+   - Usuario: usuario_auto
+   - Idioma procesado: 'es'
+

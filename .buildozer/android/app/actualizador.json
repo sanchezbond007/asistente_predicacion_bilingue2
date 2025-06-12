@@ -1,0 +1,20 @@
+{
+  "version": "1.0.3",
+  "archivos": [
+    "main.py",
+    "usuario.py",
+    "ver_log.py",
+    "utils/temas_handler.py",
+    "utils/temas_handler2.py",
+    "utils/traducciones.py",
+    "pantallas/aviso_legal.py",
+    "pantallas/buscar.py",
+    "pantallas/crear_usuario.py",
+    "pantallas/login.py",
+    "pantallas/menu.py",
+    "pantallas/sugerencias.py",
+    "pantallas/temas_profundos.py",
+    "datos/temas_profundos/tema_apostasia_bilingue.json",
+    "datos/version.json"
+  ]
+}

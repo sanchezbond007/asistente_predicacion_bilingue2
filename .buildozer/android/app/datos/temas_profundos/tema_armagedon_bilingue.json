@@ -1,0 +1,143 @@
+{
+  "titulo": {
+    "es": "¿Qué enseña la Biblia sobre el Armagedón? ¿Es el fin del mundo?",
+    "en": "What Does the Bible Teach About Armageddon? Is It the End of the World?"
+  },
+  "contenido": {
+    "es": "Muchas personas piensan que el Armagedón será el fin de la humanidad o una catástrofe nuclear global. Sin embargo, los Testigos de Jehová creen que el Armagedón es la guerra de Dios para eliminar la maldad y traer un nuevo mundo justo, no el fin de toda la vida en la Tierra.",
+    "en": "Many people think Armageddon is the end of humanity or a global nuclear disaster. However, Jehovah’s Witnesses believe Armageddon is God’s war to eliminate wickedness and bring a just new world, not the end of all life on Earth."
+  },
+  "argumentos": {
+    "argumentos_biblicos": [
+      {
+        "titulo": {
+          "es": "Dios no desea la muerte del malvado",
+          "en": "God Does Not Desire the Death of the Wicked"
+        },
+        "cita": "Ezequiel 33:11",
+        "texto": {
+          "es": "No me complace la muerte del malvado... háganse volver, y sigan viviendo.",
+          "en": "I take no pleasure in the death of the wicked... turn back and keep living."
+        }
+      },
+      {
+        "titulo": {
+          "es": "El fin del sistema de cosas, no del planeta",
+          "en": "The End of the System, Not the Planet"
+        },
+        "cita": "1 Juan 2:17",
+        "texto": {
+          "es": "El mundo está pasando... pero el que hace la voluntad de Dios permanece para siempre.",
+          "en": "The world is passing away... but the one who does the will of God remains forever."
+        }
+      }
+    ],
+    "argumentos_logicos": [
+      {
+        "titulo": {
+          "es": "Dios creó la Tierra para que fuera habitada eternamente",
+          "en": "God Created the Earth to Be Inhabited Forever"
+        },
+        "explicacion": {
+          "es": "Isaías 45:18 dice que Dios creó la Tierra 'no para nada, sino para ser habitada'.",
+          "en": "Isaiah 45:18 says that God created the Earth 'not for nothing, but to be inhabited'."
+        }
+      },
+      {
+        "titulo": {
+          "es": "Un gobierno justo no extermina a sus súbditos leales",
+          "en": "A Just Government Does Not Destroy Loyal Subjects"
+        },
+        "explicacion": {
+          "es": "Jehová eliminará solo a quienes insisten en rechazar su autoridad y dañar a otros.",
+          "en": "Jehovah will eliminate only those who persist in rejecting His authority and harming others."
+        }
+      }
+    ],
+    "argumentos_historicos": [
+      {
+        "titulo": {
+          "es": "El Armagedón ha sido malinterpretado por siglos",
+          "en": "Armageddon Has Been Misunderstood for Centuries"
+        },
+        "descripcion": {
+          "es": "A lo largo del tiempo, se ha presentado como una leyenda apocalíptica...",
+          "en": "Over time, it has been portrayed as an apocalyptic legend..."
+        }
+      },
+      {
+        "titulo": {
+          "es": "Los primeros cristianos esperaban un juicio divino",
+          "en": "Early Christians Expected Divine Judgment"
+        },
+        "descripcion": {
+          "es": "Las enseñanzas originales incluían la idea de que Dios eliminaría a los rebeldes...",
+          "en": "The original teachings included the idea that God would remove the wicked..."
+        }
+      }
+    ],
+    "fuentes_recomendadas": [
+      "https://www.jw.org/es/enseñanzas-biblicas/preguntas/que-es-armagedon/",
+      "https://wol.jw.org/es/wol/d/r4/lp-s/1101989258",
+      "https://www.jw.org/es/biblioteca/revistas/g201311/armagedon-no-fin-del-mundo/"
+    ]
+  },
+  "conclusion": {
+    "es": "El Armagedón no es el fin del planeta ni de la humanidad...",
+    "en": "Armageddon is not the end of the planet or humanity..."
+  },
+  "secciones": [
+    {
+      "subtitulo": {
+        "es": "El Armagedón es una guerra, no un desastre natural",
+        "en": "Armageddon Is a War, Not a Natural Disaster"
+      },
+      "parrafos": [
+        {
+          "es": "Armagedón no es el fin del planeta...",
+          "en": "Armageddon is not the end of the planet..."
+        },
+        {
+          "es": "Apocalipsis 16:14, 16...",
+          "en": "Revelation 16:14, 16..."
+        }
+      ]
+    },
+    {
+      "subtitulo": {
+        "es": "Jehová ejecutará juicio con justicia, no con crueldad",
+        "en": "Jehovah Will Judge With Justice, Not Cruelty"
+      },
+      "parrafos": [
+        {
+          "es": "El propósito de Jehová no es destruir a la humanidad...",
+          "en": "Jehovah’s purpose is not to destroy humanity..."
+        },
+        {
+          "es": "Salmo 96:13...",
+          "en": "Psalm 96:13..."
+        }
+      ]
+    },
+    {
+      "subtitulo": {
+        "es": "Los siervos de Dios serán protegidos",
+        "en": "God’s Servants Will Be Protected"
+      },
+      "parrafos": [
+        {
+          "es": "Armagedón traerá un nuevo comienzo...",
+          "en": "Armageddon will bring a new beginning..."
+        },
+        {
+          "es": "Proverbios 2:21-22...",
+          "en": "Proverbs 2:21-22..."
+        },
+        {
+          "es": "Salmo 37:10-11...",
+          "en": "Psalm 37:10-11..."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "bloque": 8,
+  "descripcion": {
+    "es": "Este bloque incluye temas sobre la corrección bíblica, el nombre de Dios, la apostasía y la vestimenta cristiana.",
+    "en": "This block includes topics on biblical correction, God's name, apostasy, and Christian dress."
+  },
+  "temas": [
+    {
+      "titulo": {
+        "es": "¿Qué actitud debemos tener hacia la corrección bíblica?",
+        "en": "What attitude should we have toward Bible-based correction?"
+      },
+      "respuesta": {
+        "es": "Debemos aceptarla con gratitud y humildad.",
+        "en": "We should accept it with gratitude and humility."
+      },
+      "cita": "Proverbios 1:8",
+      "categoria": "Conducta"
+    },
+    {
+      "titulo": {
+        "es": "¿Deben los cristianos hacer juramentos?",
+        "en": "Should Christians make oaths?"
+      },
+      "respuesta": {
+        "es": "Jesús enseñó a decir simplemente 'sí' o 'no'.",
+        "en": "Jesus taught us to simply say 'yes' or 'no'."
+      },
+      "cita": "Mateo 5:37",
+      "categoria": "Debates"
+    },
+    {
+      "titulo": {
+        "es": "¿Por qué es vital el amor al prójimo?",
+        "en": "Why is love for neighbor vital?"
+      },
+      "respuesta": {
+        "es": "Es el segundo mandamiento más importante según Jesús.",
+        "en": "It is the second most important commandment according to Jesus."
+      },
+      "cita": "Mateo 22:39",
+      "categoria": "Conducta"
+    },
+    {
+      "titulo": {
+        "es": "¿Qué importancia tiene el nombre de Dios?",
+        "en": "Why is God's name important?"
+      },
+      "respuesta": {
+        "es": "Debe ser santificado y dado a conocer a las naciones.",
+        "en": "It must be sanctified and made known to the nations."
+      },
+      "cita": "Ezequiel 36:23",
+      "categoria": "Doctrina"
+    },
+    {
+      "titulo": {
+        "es": "¿Qué es la apostasía?",
+        "en": "What is apostasy?"
+      },
+      "respuesta": {
+        "es": "Es el abandono o rechazo de la verdad bíblica revelada.",
+        "en": "It is the abandonment or rejection of revealed Bible truth."
+      },
+      "cita": "2 Tesalonicenses 2:3",
+      "categoria": "Debates"
+    },
+    {
+      "titulo": {
+        "es": "¿Por qué Dios permite el sufrimiento?",
+        "en": "Why does God allow suffering?"
+      },
+      "respuesta": {
+        "es": "Para resolver cuestiones morales universales y demostrar su justicia.",
+        "en": "To resolve universal moral issues and prove His justice."
+      },
+      "cita": "Job 1:9-11",
+      "categoria": "Debates"
+    },
+    {
+      "titulo": {
+        "es": "¿Por qué debemos predicar con urgencia?",
+        "en": "Why should we preach urgently?"
+      },
+      "respuesta": {
+        "es": "Porque el fin se acerca y las personas necesitan conocer la verdad.",
+        "en": "Because the end is near and people need to know the truth."
+      },
+      "cita": "2 Timoteo 4:2",
+      "categoria": "Doctrina"
+    },
+    {
+      "titulo": {
+        "es": "¿Cómo debemos vestirnos como cristianos?",
+        "en": "How should Christians dress?"
+      },
+      "respuesta": {
+        "es": "Con modestia y respeto, reflejando dignidad y buen juicio.",
+        "en": "With modesty and respect, reflecting dignity and sound judgment."
+      },
+      "cita": "1 Timoteo 2:9",
+      "categoria": "Conducta"
+    },
+    {
+      "titulo": {
+        "es": "¿Qué enseña la Biblia sobre los espíritus?",
+        "en": "What does the Bible teach about spirits?"
+      },
+      "respuesta": {
+        "es": "Prohíbe toda forma de espiritismo y contacto con los muertos.",
+        "en": "It forbids all forms of spiritism and contact with the dead."
+      },
+      "cita": "Deuteronomio 18:10-12",
+      "categoria": "Debates"
+    },
+    {
+      "titulo": {
+        "es": "¿Qué beneficios trae la lectura diaria de la Biblia?",
+        "en": "What benefits come from daily Bible reading?"
+      },
+      "respuesta": {
+        "es": "Nos acerca a Dios, nos da sabiduría y fortalece la fe.",
+        "en": "It draws us closer to God, gives us wisdom, and strengthens our faith."
+      },
+      "cita": "Salmo 1:1-3",
+      "categoria": "Doctrina"
+    }
+  ]
+}

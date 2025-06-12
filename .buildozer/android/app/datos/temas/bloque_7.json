@@ -1,0 +1,129 @@
+{
+  "bloque": 7,
+  "descripcion": {
+    "es": "Este bloque se enfoca en la fe, la unidad cristiana, la moralidad y la esperanza en la resurrección.",
+    "en": "This block focuses on faith, Christian unity, morality, and the hope of resurrection."
+  },
+  "temas": [
+    {
+      "titulo": {
+        "es": "¿Por qué debemos tener fe en las promesas de Dios?",
+        "en": "Why should we have faith in God’s promises?"
+      },
+      "respuesta": {
+        "es": "Porque Jehová siempre cumple lo que promete y nunca falla.",
+        "en": "Because Jehovah always fulfills what He promises and never fails."
+      },
+      "cita": "Josué 23:14",
+      "categoria": "Doctrina"
+    },
+    {
+      "titulo": {
+        "es": "¿Qué enseña la Biblia sobre la humildad?",
+        "en": "What does the Bible teach about humility?"
+      },
+      "respuesta": {
+        "es": "La humildad nos acerca a Dios y nos protege del orgullo.",
+        "en": "Humility draws us closer to God and protects us from pride."
+      },
+      "cita": "Proverbios 22:4",
+      "categoria": "Conducta"
+    },
+    {
+      "titulo": {
+        "es": "¿Qué es el espíritu santo?",
+        "en": "What is the holy spirit?"
+      },
+      "respuesta": {
+        "es": "Es la fuerza activa de Dios, que guía y fortalece a sus siervos.",
+        "en": "It is God's active force, which guides and strengthens His servants."
+      },
+      "cita": "Hechos 1:8",
+      "categoria": "Doctrina"
+    },
+    {
+      "titulo": {
+        "es": "¿Qué actitud debemos tener hacia el trabajo en la congregación?",
+        "en": "What attitude should we have toward work in the congregation?"
+      },
+      "respuesta": {
+        "es": "Debe ser de disposición voluntaria y con espíritu de servicio.",
+        "en": "It should be willing and with a spirit of service."
+      },
+      "cita": "Salmo 110:3",
+      "categoria": "Conducta"
+    },
+    {
+      "titulo": {
+        "es": "¿Por qué la unidad es importante entre los cristianos?",
+        "en": "Why is unity important among Christians?"
+      },
+      "respuesta": {
+        "es": "Demuestra que somos verdaderos discípulos de Cristo.",
+        "en": "It shows we are true disciples of Christ."
+      },
+      "cita": "Juan 17:21",
+      "categoria": "Doctrina"
+    },
+    {
+      "titulo": {
+        "es": "¿Qué dice la Biblia sobre el aborto?",
+        "en": "What does the Bible say about abortion?"
+      },
+      "respuesta": {
+        "es": "La vida es sagrada desde el vientre y debe ser respetada.",
+        "en": "Life is sacred from the womb and must be respected."
+      },
+      "cita": "Éxodo 21:22-23",
+      "categoria": "Debates"
+    },
+    {
+      "titulo": {
+        "es": "¿Cómo fortalecer nuestra relación con Jehová?",
+        "en": "How can we strengthen our relationship with Jehovah?"
+      },
+      "respuesta": {
+        "es": "Mediante la oración, el estudio y la obediencia diaria.",
+        "en": "Through prayer, study, and daily obedience."
+      },
+      "cita": "Santiago 4:8",
+      "categoria": "Doctrina"
+    },
+    {
+      "titulo": {
+        "es": "¿Por qué debemos evitar la pornografía?",
+        "en": "Why should we avoid pornography?"
+      },
+      "respuesta": {
+        "es": "Corrompe el corazón y debilita nuestra espiritualidad.",
+        "en": "It corrupts the heart and weakens our spirituality."
+      },
+      "cita": "Mateo 5:28",
+      "categoria": "Conducta"
+    },
+    {
+      "titulo": {
+        "es": "¿Cuál es la misión principal de los cristianos hoy?",
+        "en": "What is the main mission of Christians today?"
+      },
+      "respuesta": {
+        "es": "Dar testimonio del Reino de Dios a toda la humanidad.",
+        "en": "To witness about God’s Kingdom to all mankind."
+      },
+      "cita": "Mateo 24:14",
+      "categoria": "Doctrina"
+    },
+    {
+      "titulo": {
+        "es": "¿Qué enseña la Biblia sobre la muerte?",
+        "en": "What does the Bible teach about death?"
+      },
+      "respuesta": {
+        "es": "La muerte es un estado de inconsciencia, no de sufrimiento eterno.",
+        "en": "Death is a state of unconsciousness, not eternal suffering."
+      },
+      "cita": "Eclesiastés 9:5",
+      "categoria": "Doctrina"
+    }
+  ]
+}

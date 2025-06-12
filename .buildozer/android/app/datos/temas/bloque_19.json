@@ -1,0 +1,129 @@
+{
+  "bloque": 19,
+  "descripcion": {
+    "es": "Temas sobre fe verdadera, sabiduría bíblica, modestia, orgullo y conciencia moral.",
+    "en": "Topics on true faith, Bible wisdom, modesty, pride, and moral conscience."
+  },
+  "temas": [
+    {
+      "titulo": {
+        "es": "¿Qué es la fe verdadera?",
+        "en": "What is true faith?"
+      },
+      "respuesta": {
+        "es": "Es la fe basada en el conocimiento exacto de la Palabra de Dios y se demuestra con obras.",
+        "en": "It is faith based on accurate knowledge of God's Word and is shown by actions."
+      },
+      "cita": "Hebreos 11:1",
+      "categoria": "Doctrina"
+    },
+    {
+      "titulo": {
+        "es": "¿Qué valor tiene la sabiduría bíblica?",
+        "en": "What is the value of Bible wisdom?"
+      },
+      "respuesta": {
+        "es": "Vale más que el oro porque guía nuestras decisiones y nos protege del mal.",
+        "en": "It is worth more than gold because it guides our decisions and protects us from evil."
+      },
+      "cita": "Proverbios 4:7",
+      "categoria": "Conducta"
+    },
+    {
+      "titulo": {
+        "es": "¿Cómo muestra Jehová su misericordia?",
+        "en": "How does Jehovah show mercy?"
+      },
+      "respuesta": {
+        "es": "Jehová perdona con generosidad a los que se arrepienten sinceramente.",
+        "en": "Jehovah generously forgives those who sincerely repent."
+      },
+      "cita": "Isaías 55:7",
+      "categoria": "Doctrina"
+    },
+    {
+      "titulo": {
+        "es": "¿Por qué debemos ser modestos?",
+        "en": "Why should we be modest?"
+      },
+      "respuesta": {
+        "es": "Porque la modestia protege nuestras relaciones con Dios y con otros.",
+        "en": "Because modesty protects our relationship with God and others."
+      },
+      "cita": "Miqueas 6:8",
+      "categoria": "Conducta"
+    },
+    {
+      "titulo": {
+        "es": "¿Qué enseña la Biblia sobre el orgullo?",
+        "en": "What does the Bible teach about pride?"
+      },
+      "respuesta": {
+        "es": "Dios se opone a los orgullosos pero da su favor a los humildes.",
+        "en": "God opposes the proud but gives favor to the humble."
+      },
+      "cita": "Proverbios 16:18",
+      "categoria": "Conducta"
+    },
+    {
+      "titulo": {
+        "es": "¿Qué papel tiene la conciencia en nuestras decisiones?",
+        "en": "What role does conscience play in our decisions?"
+      },
+      "respuesta": {
+        "es": "Nos ayuda a hacer lo correcto cuando está educada por la Biblia.",
+        "en": "It helps us do what is right when trained by the Bible."
+      },
+      "cita": "Hebreos 5:14",
+      "categoria": "Conducta"
+    },
+    {
+      "titulo": {
+        "es": "¿Cuál es el propósito de la disciplina de Dios?",
+        "en": "What is the purpose of God's discipline?"
+      },
+      "respuesta": {
+        "es": "Corregirnos por amor para que podamos obtener vida eterna.",
+        "en": "To correct us in love so we can gain everlasting life."
+      },
+      "cita": "Hebreos 12:6",
+      "categoria": "Doctrina"
+    },
+    {
+      "titulo": {
+        "es": "¿Debemos tener miedo del Diablo?",
+        "en": "Should we fear the Devil?"
+      },
+      "respuesta": {
+        "es": "No, si permanecemos cerca de Dios, Satanás huirá de nosotros.",
+        "en": "No, if we stay close to God, Satan will flee from us."
+      },
+      "cita": "Santiago 4:7",
+      "categoria": "Debates"
+    },
+    {
+      "titulo": {
+        "es": "¿Es el hombre superior a los animales?",
+        "en": "Is man superior to animals?"
+      },
+      "respuesta": {
+        "es": "Sí, porque fue creado a imagen de Dios con capacidad espiritual y moral.",
+        "en": "Yes, because he was created in God's image with spiritual and moral capacity."
+      },
+      "cita": "Génesis 1:26",
+      "categoria": "Doctrina"
+    },
+    {
+      "titulo": {
+        "es": "¿Por qué no debemos vengarnos?",
+        "en": "Why shouldn't we take revenge?"
+      },
+      "respuesta": {
+        "es": "La venganza le pertenece a Jehová, no a nosotros.",
+        "en": "Vengeance belongs to Jehovah, not to us."
+      },
+      "cita": "Romanos 12:19",
+      "categoria": "Conducta"
+    }
+  ]
+}

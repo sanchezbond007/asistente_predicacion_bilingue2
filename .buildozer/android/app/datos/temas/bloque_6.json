@@ -1,0 +1,129 @@
+{
+  "bloque": 6,
+  "descripcion": {
+    "es": "Este bloque destaca la conducta cristiana, el papel de la mujer, el perdón y la esperanza para el futuro.",
+    "en": "This block highlights Christian conduct, the role of women, forgiveness, and future hope."
+  },
+  "temas": [
+    {
+      "titulo": {
+        "es": "¿Cuál es el papel de la mujer cristiana?",
+        "en": "What is the role of the Christian woman?"
+      },
+      "respuesta": {
+        "es": "Ser temerosa de Dios, sabia, trabajadora y respetuosa.",
+        "en": "To fear God, be wise, hardworking, and respectful."
+      },
+      "cita": "Proverbios 31:10-31",
+      "categoria": "Conducta"
+    },
+    {
+      "titulo": {
+        "es": "¿Qué es el libre albedrío?",
+        "en": "What is free will?"
+      },
+      "respuesta": {
+        "es": "La capacidad que Dios nos dio para escoger entre el bien y el mal.",
+        "en": "The ability God gave us to choose between right and wrong."
+      },
+      "cita": "Deuteronomio 30:19",
+      "categoria": "Doctrina"
+    },
+    {
+      "titulo": {
+        "es": "¿Dios permite que suframos?",
+        "en": "Does God allow suffering?"
+      },
+      "respuesta": {
+        "es": "Sí, por un tiempo, pero siempre con un propósito y límites.",
+        "en": "Yes, for a time, but always with purpose and limits."
+      },
+      "cita": "Job 1:12",
+      "categoria": "Esperanza"
+    },
+    {
+      "titulo": {
+        "es": "¿Cómo podemos acercarnos a Dios?",
+        "en": "How can we draw close to God?"
+      },
+      "respuesta": {
+        "es": "Buscándolo sinceramente mediante la oración y el estudio.",
+        "en": "By sincerely seeking Him through prayer and study."
+      },
+      "cita": "Santiago 4:8",
+      "categoria": "Doctrina"
+    },
+    {
+      "titulo": {
+        "es": "¿Qué enseña la Biblia sobre la humildad?",
+        "en": "What does the Bible teach about humility?"
+      },
+      "respuesta": {
+        "es": "Es vital para agradar a Dios y llevarnos bien con los demás.",
+        "en": "It is vital to please God and get along with others."
+      },
+      "cita": "Miqueas 6:8",
+      "categoria": "Conducta"
+    },
+    {
+      "titulo": {
+        "es": "¿Qué significa ser limpio moralmente?",
+        "en": "What does it mean to be morally clean?"
+      },
+      "respuesta": {
+        "es": "Rechazar toda inmoralidad sexual y pensamientos impuros.",
+        "en": "Rejecting all sexual immorality and impure thoughts."
+      },
+      "cita": "1 Tesalonicenses 4:3-5",
+      "categoria": "Conducta"
+    },
+    {
+      "titulo": {
+        "es": "¿Qué enseña la Biblia sobre el perdón?",
+        "en": "What does the Bible teach about forgiveness?"
+      },
+      "respuesta": {
+        "es": "Debemos perdonar de corazón, como Jehová nos perdona a nosotros.",
+        "en": "We must forgive from the heart, as Jehovah forgives us."
+      },
+      "cita": "Mateo 6:14-15",
+      "categoria": "Conducta"
+    },
+    {
+      "titulo": {
+        "es": "¿Por qué debemos ser honestos?",
+        "en": "Why should we be honest?"
+      },
+      "respuesta": {
+        "es": "Porque Jehová detesta el engaño y ama la verdad.",
+        "en": "Because Jehovah detests deception and loves truth."
+      },
+      "cita": "Proverbios 12:22",
+      "categoria": "Conducta"
+    },
+    {
+      "titulo": {
+        "es": "¿Cómo mantener la esperanza en tiempos difíciles?",
+        "en": "How can we keep hope in difficult times?"
+      },
+      "respuesta": {
+        "es": "Recordando las promesas de Dios y apoyándonos en la congregación.",
+        "en": "By remembering God’s promises and relying on the congregation."
+      },
+      "cita": "Hebreos 10:23-25",
+      "categoria": "Esperanza"
+    },
+    {
+      "titulo": {
+        "es": "¿Qué espera Jehová de los jóvenes?",
+        "en": "What does Jehovah expect from young people?"
+      },
+      "respuesta": {
+        "es": "Que lo recuerden y lo sirvan desde su juventud.",
+        "en": "That they remember Him and serve Him from their youth."
+      },
+      "cita": "Eclesiastés 12:1",
+      "categoria": "Conducta"
+    }
+  ]
+}

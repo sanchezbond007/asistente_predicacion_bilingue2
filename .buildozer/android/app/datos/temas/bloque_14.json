@@ -1,0 +1,129 @@
+{
+  "bloque": 14,
+  "descripcion": {
+    "es": "Este bloque trata temas como la resurrección, la política, el sufrimiento y la adoración verdadera.",
+    "en": "This block addresses topics such as resurrection, politics, suffering, and true worship."
+  },
+  "temas": [
+    {
+      "titulo": {
+        "es": "¿Qué enseña la Biblia sobre las buenas obras?",
+        "en": "What does the Bible teach about good works?"
+      },
+      "respuesta": {
+        "es": "Son una manifestación de nuestra fe y amor a Dios.",
+        "en": "They are an expression of our faith and love for God."
+      },
+      "cita": "Santiago 2:17",
+      "categoria": "Conducta"
+    },
+    {
+      "titulo": {
+        "es": "¿Cuál es el propósito de la resurrección?",
+        "en": "What is the purpose of the resurrection?"
+      },
+      "respuesta": {
+        "es": "Restaurar la vida a quienes han muerto, para que vivan bajo el Reino de Dios.",
+        "en": "To restore life to those who have died, so they may live under God’s Kingdom."
+      },
+      "cita": "Hechos 24:15",
+      "categoria": "Esperanza"
+    },
+    {
+      "titulo": {
+        "es": "¿Deben los cristianos evitar la política?",
+        "en": "Should Christians avoid politics?"
+      },
+      "respuesta": {
+        "es": "Sí, deben ser neutrales y confiar en el Reino de Dios.",
+        "en": "Yes, they should remain neutral and trust in God’s Kingdom."
+      },
+      "cita": "Juan 18:36",
+      "categoria": "Debates"
+    },
+    {
+      "titulo": {
+        "es": "¿Qué actitud debemos tener ante el sufrimiento?",
+        "en": "What attitude should we have toward suffering?"
+      },
+      "respuesta": {
+        "es": "Debemos ser pacientes y confiar en la ayuda de Jehová.",
+        "en": "We should be patient and trust in Jehovah’s help."
+      },
+      "cita": "Romanos 12:12",
+      "categoria": "Esperanza"
+    },
+    {
+      "titulo": {
+        "es": "¿Qué es el pecado según la Biblia?",
+        "en": "What is sin according to the Bible?"
+      },
+      "respuesta": {
+        "es": "Es la desobediencia a las leyes de Dios.",
+        "en": "It is disobedience to God's laws."
+      },
+      "cita": "1 Juan 3:4",
+      "categoria": "Doctrina"
+    },
+    {
+      "titulo": {
+        "es": "¿Qué enseña la Biblia sobre la inmortalidad del alma?",
+        "en": "What does the Bible teach about the immortality of the soul?"
+      },
+      "respuesta": {
+        "es": "El alma muere; no es inmortal. La esperanza es la resurrección.",
+        "en": "The soul dies; it is not immortal. The hope lies in the resurrection."
+      },
+      "cita": "Ezequiel 18:4",
+      "categoria": "Debates"
+    },
+    {
+      "titulo": {
+        "es": "¿Cómo agradar a Dios como familia?",
+        "en": "How can we please God as a family?"
+      },
+      "respuesta": {
+        "es": "Orando juntos, estudiando la Biblia y aplicando sus principios en el hogar.",
+        "en": "By praying together, studying the Bible, and applying its principles at home."
+      },
+      "cita": "Efesios 5:33–6:4",
+      "categoria": "Conducta"
+    },
+    {
+      "titulo": {
+        "es": "¿Qué es la santificación del nombre de Dios?",
+        "en": "What is the sanctification of God’s name?"
+      },
+      "respuesta": {
+        "es": "Es honrar y dar gloria al nombre de Jehová con nuestra conducta y predicación.",
+        "en": "It is to honor and glorify Jehovah’s name through our conduct and preaching."
+      },
+      "cita": "Mateo 6:9",
+      "categoria": "Doctrina"
+    },
+    {
+      "titulo": {
+        "es": "¿Cuál es el papel de los ángeles?",
+        "en": "What role do angels play?"
+      },
+      "respuesta": {
+        "es": "Sirven como mensajeros de Dios y ayudan a sus siervos.",
+        "en": "They serve as God’s messengers and assist His servants."
+      },
+      "cita": "Hebreos 1:14",
+      "categoria": "Doctrina"
+    },
+    {
+      "titulo": {
+        "es": "¿Qué dice la Biblia sobre la idolatría?",
+        "en": "What does the Bible say about idolatry?"
+      },
+      "respuesta": {
+        "es": "Está prohibida en todas sus formas; sólo Jehová debe ser adorado.",
+        "en": "It is forbidden in all forms; only Jehovah must be worshipped."
+      },
+      "cita": "Éxodo 20:4-5",
+      "categoria": "Debates"
+    }
+  ]
+}

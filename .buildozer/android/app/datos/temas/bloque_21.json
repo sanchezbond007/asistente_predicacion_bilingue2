@@ -1,0 +1,129 @@
+{
+  "bloque": 21,
+  "descripcion": {
+    "es": "Temas sobre amor a Dios, consuelo, oración, sufrimiento, humildad y servicio fiel.",
+    "en": "Topics about love for God, comfort, prayer, suffering, humility, and faithful service."
+  },
+  "temas": [
+    {
+      "titulo": {
+        "es": "¿Qué significa amar a Dios?",
+        "en": "What does it mean to love God?"
+      },
+      "respuesta": {
+        "es": "Guardar sus mandamientos y vivir conforme a su voluntad.",
+        "en": "Keeping his commandments and living according to his will."
+      },
+      "cita": "1 Juan 5:3",
+      "categoria": "Doctrina"
+    },
+    {
+      "titulo": {
+        "es": "¿Puede Dios consolarnos en la tristeza?",
+        "en": "Can God comfort us in sadness?"
+      },
+      "respuesta": {
+        "es": "Sí, mediante su Palabra, espíritu santo y su pueblo.",
+        "en": "Yes, through his Word, holy spirit, and his people."
+      },
+      "cita": "2 Corintios 1:3-4",
+      "categoria": "Esperanza"
+    },
+    {
+      "titulo": {
+        "es": "¿Qué efecto tiene la oración en nuestra vida?",
+        "en": "What effect does prayer have on our life?"
+      },
+      "respuesta": {
+        "es": "Nos fortalece espiritualmente y nos acerca más a Dios.",
+        "en": "It strengthens us spiritually and draws us closer to God."
+      },
+      "cita": "1 Tesalonicenses 5:17",
+      "categoria": "Conducta"
+    },
+    {
+      "titulo": {
+        "es": "¿Es el sufrimiento castigo de Dios?",
+        "en": "Is suffering a punishment from God?"
+      },
+      "respuesta": {
+        "es": "No necesariamente. A veces es prueba de fe o consecuencia del pecado humano.",
+        "en": "Not necessarily. Sometimes it is a test of faith or a consequence of human sin."
+      },
+      "cita": "Santiago 1:2-4",
+      "categoria": "Debates"
+    },
+    {
+      "titulo": {
+        "es": "¿Qué actitud agrada a Dios?",
+        "en": "What attitude pleases God?"
+      },
+      "respuesta": {
+        "es": "La humildad, la obediencia y el temor reverente.",
+        "en": "Humility, obedience, and reverent fear."
+      },
+      "cita": "Isaías 66:2",
+      "categoria": "Conducta"
+    },
+    {
+      "titulo": {
+        "es": "¿Debemos respetar a nuestros padres?",
+        "en": "Should we respect our parents?"
+      },
+      "respuesta": {
+        "es": "Sí, es un mandato con promesa de bendición.",
+        "en": "Yes, it is a command with a promise of blessing."
+      },
+      "cita": "Efesios 6:1-3",
+      "categoria": "Conducta"
+    },
+    {
+      "titulo": {
+        "es": "¿Qué es la verdadera religión?",
+        "en": "What is true religion?"
+      },
+      "respuesta": {
+        "es": "La que se basa en la verdad bíblica y se demuestra con amor y obediencia.",
+        "en": "The one based on Bible truth and shown through love and obedience."
+      },
+      "cita": "Santiago 1:27",
+      "categoria": "Doctrina"
+    },
+    {
+      "titulo": {
+        "es": "¿Puede Dios perdonar cualquier pecado?",
+        "en": "Can God forgive any sin?"
+      },
+      "respuesta": {
+        "es": "Sí, excepto el pecado deliberado contra el espíritu santo.",
+        "en": "Yes, except for the deliberate sin against the holy spirit."
+      },
+      "cita": "Mateo 12:31",
+      "categoria": "Debates"
+    },
+    {
+      "titulo": {
+        "es": "¿Qué valor tiene el servicio a Dios?",
+        "en": "What value does serving God have?"
+      },
+      "respuesta": {
+        "es": "Nos hace felices, nos da propósito y nos prepara para la vida eterna.",
+        "en": "It makes us happy, gives us purpose, and prepares us for everlasting life."
+      },
+      "cita": "1 Corintios 15:58",
+      "categoria": "Doctrina"
+    },
+    {
+      "titulo": {
+        "es": "¿Qué pasará con los malvados?",
+        "en": "What will happen to the wicked?"
+      },
+      "respuesta": {
+        "es": "Serán eliminados para siempre del futuro paraíso prometido por Dios.",
+        "en": "They will be permanently removed from the future paradise promised by God."
+      },
+      "cita": "Salmo 37:10",
+      "categoria": "Esperanza"
+    }
+  ]
+}

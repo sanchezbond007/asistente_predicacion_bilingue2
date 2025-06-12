@@ -1,0 +1,129 @@
+{
+  "bloque": 18,
+  "descripcion": {
+    "es": "Temas sobre predicación, verdad, paciencia, enfermedades, amor al prójimo y esperanza.",
+    "en": "Topics on preaching, truth, patience, illness, love for others, and hope."
+  },
+  "temas": [
+    {
+      "titulo": {
+        "es": "¿Cuál es el propósito de la predicación cristiana?",
+        "en": "What is the purpose of Christian preaching?"
+      },
+      "respuesta": {
+        "es": "Dar a conocer las buenas noticias del Reino.",
+        "en": "To share the good news of the Kingdom."
+      },
+      "cita": "Mateo 24:14",
+      "categoria": "Doctrina"
+    },
+    {
+      "titulo": {
+        "es": "¿Qué dice la Biblia sobre la mentira?",
+        "en": "What does the Bible say about lying?"
+      },
+      "respuesta": {
+        "es": "Jehová detesta la mentira; ama la verdad.",
+        "en": "Jehovah detests lies and loves the truth."
+      },
+      "cita": "Proverbios 12:22",
+      "categoria": "Conducta"
+    },
+    {
+      "titulo": {
+        "es": "¿Debemos temer a Satanás?",
+        "en": "Should we fear Satan?"
+      },
+      "respuesta": {
+        "es": "No, pero debemos estar alertas a sus trampas.",
+        "en": "No, but we must be alert to his traps."
+      },
+      "cita": "1 Pedro 5:8",
+      "categoria": "Debates"
+    },
+    {
+      "titulo": {
+        "es": "¿Qué enseña la Biblia sobre la paciencia?",
+        "en": "What does the Bible teach about patience?"
+      },
+      "respuesta": {
+        "es": "La paciencia es una cualidad que Dios valora.",
+        "en": "Patience is a quality valued by God."
+      },
+      "cita": "Eclesiastés 7:8",
+      "categoria": "Conducta"
+    },
+    {
+      "titulo": {
+        "es": "¿Qué esperanza hay para quienes sufren enfermedades?",
+        "en": "What hope is there for those suffering from illness?"
+      },
+      "respuesta": {
+        "es": "Dios promete un futuro sin dolor ni enfermedad.",
+        "en": "God promises a future with no pain or illness."
+      },
+      "cita": "Isaías 33:24",
+      "categoria": "Esperanza"
+    },
+    {
+      "titulo": {
+        "es": "¿Por qué debemos amar al prójimo?",
+        "en": "Why should we love our neighbor?"
+      },
+      "respuesta": {
+        "es": "Porque el amor es el cumplimiento de la ley.",
+        "en": "Because love is the fulfillment of the law."
+      },
+      "cita": "Romanos 13:10",
+      "categoria": "Conducta"
+    },
+    {
+      "titulo": {
+        "es": "¿Qué dice la Biblia sobre la avaricia?",
+        "en": "What does the Bible say about greed?"
+      },
+      "respuesta": {
+        "es": "La avaricia puede alejarnos de Dios.",
+        "en": "Greed can distance us from God."
+      },
+      "cita": "1 Timoteo 6:9-10",
+      "categoria": "Debates"
+    },
+    {
+      "titulo": {
+        "es": "¿Qué significa buscar primero el Reino?",
+        "en": "What does it mean to seek the Kingdom first?"
+      },
+      "respuesta": {
+        "es": "Poner los intereses de Dios antes que los propios.",
+        "en": "To put God's interests before our own."
+      },
+      "cita": "Mateo 6:33",
+      "categoria": "Conducta"
+    },
+    {
+      "titulo": {
+        "es": "¿Qué enseña la Biblia sobre la esperanza?",
+        "en": "What does the Bible teach about hope?"
+      },
+      "respuesta": {
+        "es": "La esperanza basada en la Biblia no defrauda.",
+        "en": "Bible-based hope does not disappoint."
+      },
+      "cita": "Romanos 15:13",
+      "categoria": "Doctrina"
+    },
+    {
+      "titulo": {
+        "es": "¿Qué actitud tener hacia los ancianos cristianos?",
+        "en": "What attitude should we have toward Christian elders?"
+      },
+      "respuesta": {
+        "es": "Respetarlos y valorar su labor en la congregación.",
+        "en": "Respect them and value their work in the congregation."
+      },
+      "cita": "1 Timoteo 5:17",
+      "categoria": "Conducta"
+    }
+  ]
+}

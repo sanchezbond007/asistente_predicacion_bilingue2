@@ -1,0 +1,129 @@
+{
+  "bloque": 10,
+  "descripcion": {
+    "es": "Este bloque presenta temas sobre el temor a Dios, conciencia limpia, gratitud y sabiduría espiritual.",
+    "en": "This block presents topics about fearing God, a clean conscience, gratitude, and spiritual wisdom."
+  },
+  "temas": [
+    {
+      "titulo": {
+        "es": "¿Qué significa temer a Dios?",
+        "en": "What does it mean to fear God?"
+      },
+      "respuesta": {
+        "es": "Significa tener profundo respeto y reverencia hacia Él, y evitar lo que le desagrada.",
+        "en": "It means having deep respect and reverence for Him and avoiding what displeases Him."
+      },
+      "cita": "Proverbios 8:13",
+      "categoria": "Doctrina"
+    },
+    {
+      "titulo": {
+        "es": "¿Qué es la neutralidad cristiana?",
+        "en": "What is Christian neutrality?"
+      },
+      "respuesta": {
+        "es": "Es la decisión de no participar en conflictos políticos o militares, imitando a Jesús.",
+        "en": "It is the decision not to participate in political or military conflicts, imitating Jesus."
+      },
+      "cita": "Juan 17:16",
+      "categoria": "Debates"
+    },
+    {
+      "titulo": {
+        "es": "¿Cómo podemos tener una buena conciencia ante Dios?",
+        "en": "How can we have a good conscience before God?"
+      },
+      "respuesta": {
+        "es": "Obedeciendo su Palabra y manteniéndonos limpios moralmente.",
+        "en": "By obeying His Word and remaining morally clean."
+      },
+      "cita": "1 Pedro 3:16",
+      "categoria": "Conducta"
+    },
+    {
+      "titulo": {
+        "es": "¿Qué enseña la Biblia sobre el amor a los enemigos?",
+        "en": "What does the Bible teach about love for enemies?"
+      },
+      "respuesta": {
+        "es": "Jesús enseñó que debemos amar, orar por ellos y no buscar venganza.",
+        "en": "Jesus taught that we must love them, pray for them, and not seek revenge."
+      },
+      "cita": "Mateo 5:44",
+      "categoria": "Conducta"
+    },
+    {
+      "titulo": {
+        "es": "¿Qué dice la Biblia sobre la obediencia a Dios?",
+        "en": "What does the Bible say about obedience to God?"
+      },
+      "respuesta": {
+        "es": "Obedecer a Dios es mejor que cualquier sacrificio, y le agrada profundamente.",
+        "en": "Obedience to God is better than any sacrifice, and greatly pleases Him."
+      },
+      "cita": "1 Samuel 15:22",
+      "categoria": "Doctrina"
+    },
+    {
+      "titulo": {
+        "es": "¿Por qué debemos asistir a las reuniones cristianas?",
+        "en": "Why should we attend Christian meetings?"
+      },
+      "respuesta": {
+        "es": "Para fortalecernos unos a otros y mostrar amor y fe activa.",
+        "en": "To strengthen one another and show love and active faith."
+      },
+      "cita": "Hebreos 10:24-25",
+      "categoria": "Conducta"
+    },
+    {
+      "titulo": {
+        "es": "¿Qué es la sabiduría divina?",
+        "en": "What is divine wisdom?"
+      },
+      "respuesta": {
+        "es": "Es la capacidad de aplicar el conocimiento bíblico correctamente en la vida diaria.",
+        "en": "It is the ability to apply Bible knowledge correctly in daily life."
+      },
+      "cita": "Santiago 3:17",
+      "categoria": "Doctrina"
+    },
+    {
+      "titulo": {
+        "es": "¿Por qué es importante la gratitud?",
+        "en": "Why is gratitude important?"
+      },
+      "respuesta": {
+        "es": "Porque honra a Dios y nos ayuda a ser felices con lo que tenemos.",
+        "en": "Because it honors God and helps us be happy with what we have."
+      },
+      "cita": "1 Tesalonicenses 5:18",
+      "categoria": "Conducta"
+    },
+    {
+      "titulo": {
+        "es": "¿Qué beneficios trae el estudio personal de la Biblia?",
+        "en": "What benefits does personal Bible study bring?"
+      },
+      "respuesta": {
+        "es": "Fortalece nuestra fe, nos acerca a Dios y nos guía en la vida.",
+        "en": "It strengthens our faith, draws us closer to God, and guides our life."
+      },
+      "cita": "Josué 1:8",
+      "categoria": "Doctrina"
+    },
+    {
+      "titulo": {
+        "es": "¿Qué actitud debemos tener hacia los ancianos cristianos?",
+        "en": "What attitude should we have toward Christian elders?"
+      },
+      "respuesta": {
+        "es": "Debemos respetarlos, escucharlos y obedecer su guía basada en la Biblia.",
+        "en": "We should respect them, listen to them, and follow their Bible-based guidance."
+      },
+      "cita": "Hebreos 13:17",
+      "categoria": "Conducta"
+    }
+  ]
+}

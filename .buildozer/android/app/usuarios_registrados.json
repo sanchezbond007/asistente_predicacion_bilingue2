@@ -1,0 +1,14 @@
+{
+  "sanchezbond007": {
+    "contrasena": "password123",
+    "nombre": "James",
+    "apellido": "Bond",
+    "email": "bond@secret.com"
+  },
+  "admin": {
+    "contrasena": "admin",
+    "nombre": "Administrador",
+    "apellido": "Sistema",
+    "email": "admin@system.com"
+  }
+}

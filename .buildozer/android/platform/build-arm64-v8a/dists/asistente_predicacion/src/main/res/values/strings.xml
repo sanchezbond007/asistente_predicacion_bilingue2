@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Asistente Predicación Bilingüe</string>
+    <string name="private_version">de25922c63988cd916107c3e8b340075edb2303c</string>
+    <string name="presplash_color">#000000</string>
+    <string name="urlScheme">kivy</string>
+</resources>

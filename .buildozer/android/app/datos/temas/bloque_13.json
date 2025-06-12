@@ -1,0 +1,129 @@
+{
+  "bloque": 13,
+  "descripcion": {
+    "es": "Este bloque resalta la importancia del Reino, la esperanza para los jóvenes y la conducta cristiana.",
+    "en": "This block highlights the importance of the Kingdom, hope for young people, and Christian conduct."
+  },
+  "temas": [
+    {
+      "titulo": {
+        "es": "¿Por qué debemos poner el Reino en primer lugar?",
+        "en": "Why should we put the Kingdom first?"
+      },
+      "respuesta": {
+        "es": "Porque Jesús enseñó que es la prioridad en la vida de un cristiano.",
+        "en": "Because Jesus taught it should be the priority in a Christian’s life."
+      },
+      "cita": "Mateo 6:33",
+      "categoria": "Doctrina"
+    },
+    {
+      "titulo": {
+        "es": "¿Cómo muestra Dios amor a la humanidad?",
+        "en": "How does God show love to humanity?"
+      },
+      "respuesta": {
+        "es": "Envió a su Hijo para darnos vida eterna y cuida de nosotros con ternura.",
+        "en": "He sent his Son to give us everlasting life and tenderly cares for us."
+      },
+      "cita": "Juan 3:16",
+      "categoria": "Doctrina"
+    },
+    {
+      "titulo": {
+        "es": "¿Es posible agradar a Dios hoy?",
+        "en": "Is it possible to please God today?"
+      },
+      "respuesta": {
+        "es": "Sí, mediante la fe, la obediencia y un estilo de vida piadoso.",
+        "en": "Yes, through faith, obedience, and a godly lifestyle."
+      },
+      "cita": "Hebreos 11:6",
+      "categoria": "Doctrina"
+    },
+    {
+      "titulo": {
+        "es": "¿Qué enseña la Biblia sobre el compañerismo cristiano?",
+        "en": "What does the Bible teach about Christian fellowship?"
+      },
+      "respuesta": {
+        "es": "Fortalece la fe y muestra amor entre hermanos.",
+        "en": "It strengthens faith and shows love among brothers."
+      },
+      "cita": "Salmo 133:1",
+      "categoria": "Conducta"
+    },
+    {
+      "titulo": {
+        "es": "¿Qué esperanza da Dios a los jóvenes?",
+        "en": "What hope does God give to young people?"
+      },
+      "respuesta": {
+        "es": "Que pueden servirle con gozo y tener un futuro eterno en su Reino.",
+        "en": "That they can serve Him joyfully and have an everlasting future in His Kingdom."
+      },
+      "cita": "Eclesiastés 12:1",
+      "categoria": "Esperanza"
+    },
+    {
+      "titulo": {
+        "es": "¿Qué actitud tener hacia los errores del pasado?",
+        "en": "What attitude should we have about past mistakes?"
+      },
+      "respuesta": {
+        "es": "Dios perdona y podemos aprender de ellos para mejorar.",
+        "en": "God forgives, and we can learn from them to improve."
+      },
+      "cita": "Isaías 1:18",
+      "categoria": "Esperanza"
+    },
+    {
+      "titulo": {
+        "es": "¿Qué dice la Biblia sobre la educación superior?",
+        "en": "What does the Bible say about higher education?"
+      },
+      "respuesta": {
+        "es": "Debemos buscar primero intereses espirituales y tener cuidado con las influencias.",
+        "en": "We should prioritize spiritual interests and be cautious about influences."
+      },
+      "cita": "Colosenses 2:8",
+      "categoria": "Debates"
+    },
+    {
+      "titulo": {
+        "es": "¿Deben los cristianos celebrar fiestas religiosas?",
+        "en": "Should Christians celebrate religious holidays?"
+      },
+      "respuesta": {
+        "es": "No, porque muchas tienen orígenes paganos o doctrinas no bíblicas.",
+        "en": "No, because many have pagan origins or unbiblical doctrines."
+      },
+      "cita": "2 Corintios 6:14-17",
+      "categoria": "Debates"
+    },
+    {
+      "titulo": {
+        "es": "¿Cómo se muestra la misericordia cristiana?",
+        "en": "How is Christian mercy shown?"
+      },
+      "respuesta": {
+        "es": "Perdonando, ayudando a los necesitados y actuando con compasión.",
+        "en": "By forgiving, helping those in need, and acting with compassion."
+      },
+      "cita": "Lucas 6:36",
+      "categoria": "Conducta"
+    },
+    {
+      "titulo": {
+        "es": "¿Por qué debemos tener valor espiritual?",
+        "en": "Why must we have spiritual courage?"
+      },
+      "respuesta": {
+        "es": "Porque enfrentamos oposición del mundo y necesitamos defender nuestra fe.",
+        "en": "Because we face opposition from the world and need to defend our faith."
+      },
+      "cita": "Josué 1:9",
+      "categoria": "Conducta"
+    }
+  ]
+}

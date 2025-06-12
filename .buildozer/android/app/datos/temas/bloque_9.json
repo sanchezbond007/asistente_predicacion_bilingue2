@@ -1,0 +1,129 @@
+{
+  "bloque": 9,
+  "descripcion": {
+    "es": "Este bloque trata sobre el matrimonio, el egoísmo, la congregación, y la esperanza para los enfermos.",
+    "en": "This block covers marriage, selfishness, the congregation, and hope for the sick."
+  },
+  "temas": [
+    {
+      "titulo": {
+        "es": "¿Qué promesas tiene Dios para la Tierra?",
+        "en": "What promises has God made for the Earth?"
+      },
+      "respuesta": {
+        "es": "Será transformada en un paraíso donde vivirá la humanidad obediente.",
+        "en": "It will be transformed into a paradise where obedient mankind will live."
+      },
+      "cita": "Isaías 11:6-9",
+      "categoria": "Esperanza"
+    },
+    {
+      "titulo": {
+        "es": "¿Qué actitud debemos tener hacia el matrimonio?",
+        "en": "What attitude should we have toward marriage?"
+      },
+      "respuesta": {
+        "es": "Debe ser honrado, duradero y basado en el amor verdadero.",
+        "en": "It should be honored, lasting, and based on true love."
+      },
+      "cita": "Hebreos 13:4",
+      "categoria": "Conducta"
+    },
+    {
+      "titulo": {
+        "es": "¿Qué enseña la Biblia sobre el egoísmo?",
+        "en": "What does the Bible teach about selfishness?"
+      },
+      "respuesta": {
+        "es": "Debemos imitar a Cristo y poner a otros por encima de nosotros.",
+        "en": "We should imitate Christ and put others ahead of ourselves."
+      },
+      "cita": "Filipenses 2:3",
+      "categoria": "Conducta"
+    },
+    {
+      "titulo": {
+        "es": "¿Qué hará Dios con la maldad?",
+        "en": "What will God do with wickedness?"
+      },
+      "respuesta": {
+        "es": "La eliminará completamente mediante su Reino justo.",
+        "en": "He will completely eliminate it through His righteous Kingdom."
+      },
+      "cita": "Salmo 37:9-10",
+      "categoria": "Esperanza"
+    },
+    {
+      "titulo": {
+        "es": "¿Deben los cristianos buscar venganza?",
+        "en": "Should Christians seek revenge?"
+      },
+      "respuesta": {
+        "es": "No, debemos dejar lugar a la ira de Dios.",
+        "en": "No, we should leave room for God's wrath."
+      },
+      "cita": "Romanos 12:19",
+      "categoria": "Conducta"
+    },
+    {
+      "titulo": {
+        "es": "¿Qué papel tiene la congregación en la vida cristiana?",
+        "en": "What role does the congregation play in Christian life?"
+      },
+      "respuesta": {
+        "es": "Nos brinda apoyo espiritual y nos ayuda a crecer en la fe.",
+        "en": "It provides spiritual support and helps us grow in faith."
+      },
+      "cita": "Efesios 4:11-13",
+      "categoria": "Doctrina"
+    },
+    {
+      "titulo": {
+        "es": "¿Qué es la conciencia limpia ante Dios?",
+        "en": "What is a clean conscience before God?"
+      },
+      "respuesta": {
+        "es": "Es actuar de forma que no nos acuse interiormente ante Jehová.",
+        "en": "It is acting in a way that does not accuse us before Jehovah."
+      },
+      "cita": "1 Pedro 3:16",
+      "categoria": "Conducta"
+    },
+    {
+      "titulo": {
+        "es": "¿Qué dice la Biblia sobre la avaricia?",
+        "en": "What does the Bible say about greed?"
+      },
+      "respuesta": {
+        "es": "Debemos evitarla porque es idolatría y conduce a la ruina.",
+        "en": "We must avoid it because it is idolatry and leads to ruin."
+      },
+      "cita": "Colosenses 3:5",
+      "categoria": "Conducta"
+    },
+    {
+      "titulo": {
+        "es": "¿Qué esperanza ofrece la Biblia a los enfermos?",
+        "en": "What hope does the Bible offer to the sick?"
+      },
+      "respuesta": {
+        "es": "Dios eliminará las enfermedades en el nuevo mundo.",
+        "en": "God will eliminate sickness in the new world."
+      },
+      "cita": "Isaías 33:24",
+      "categoria": "Esperanza"
+    },
+    {
+      "titulo": {
+        "es": "¿Qué significa ser luz del mundo?",
+        "en": "What does it mean to be a light of the world?"
+      },
+      "respuesta": {
+        "es": "Reflejar buenas obras y la verdad en un mundo oscuro.",
+        "en": "To reflect good works and the truth in a dark world."
+      },
+      "cita": "Mateo 5:14-16",
+      "categoria": "Conducta"
+    }
+  ]
+}

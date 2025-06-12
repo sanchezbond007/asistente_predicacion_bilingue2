@@ -1,0 +1,139 @@
+{
+  "bloque": 1,
+  "descripcion": {
+    "es": "En este bloque se presentan verdades fundamentales sobre Dios, Jesús y el propósito de la vida.",
+    "en": "This block presents fundamental truths about God, Jesus, and the purpose of life."
+  },
+  "temas": [
+    {
+      "titulo": {
+        "es": "¿Quién es Dios?",
+        "en": "Who is God?"
+      },
+      "respuesta": {
+        "es": "Dios es el Creador del cielo y la tierra, el Ser Supremo. Su nombre es Jehová.",
+        "en": "God is the Creator of heaven and earth, the Supreme Being. His name is Jehovah."
+      },
+      "cita": "Salmo 83:18",
+      "categoria": "Doctrina",
+      "link": "https://www.jw.org/es/biblioteca/libros/buena-noticia-quien-es-dios/"
+    },
+    {
+      "titulo": {
+        "es": "¿Quién es Jesucristo?",
+        "en": "Who is Jesus Christ?"
+      },
+      "respuesta": {
+        "es": "Jesucristo es el Hijo de Dios, el Mesías prometido, y el primero de toda la creación.",
+        "en": "Jesus Christ is the Son of God, the promised Messiah, and the first of all creation."
+      },
+      "cita": "Juan 3:16",
+      "categoria": "Doctrina",
+      "link": "https://www.jw.org/es/biblioteca/libros/buena-noticia-quien-es-jesus/"
+    },
+    {
+      "titulo": {
+        "es": "¿Qué es el Reino de Dios?",
+        "en": "What is God’s Kingdom?"
+      },
+      "respuesta": {
+        "es": "Es un gobierno celestial establecido por Jehová que reemplazará los gobiernos humanos.",
+        "en": "It is a heavenly government established by Jehovah that will replace human governments."
+      },
+      "cita": "Mateo 6:9-10",
+      "categoria": "Doctrina",
+      "link": "https://www.jw.org/es/biblioteca/libros/buena-noticia-reino-dios/"
+    },
+    {
+      "titulo": {
+        "es": "¿Por qué sufrimos?",
+        "en": "Why do we suffer?"
+      },
+      "respuesta": {
+        "es": "Por vivir en un mundo gobernado por Satanás, bajo pecado heredado y condiciones injustas.",
+        "en": "Because we live in a world ruled by Satan, affected by inherited sin and injustice."
+      },
+      "cita": "1 Juan 5:19",
+      "categoria": "Doctrina",
+      "link": "https://www.jw.org/es/biblioteca/revistas/wp202101/sufrimiento-mundo-solucion-dios/"
+    },
+    {
+      "titulo": {
+        "es": "¿Qué esperanza hay para los muertos?",
+        "en": "What hope is there for the dead?"
+      },
+      "respuesta": {
+        "es": "La resurrección. Jehová devolverá la vida a los que han muerto.",
+        "en": "The resurrection. Jehovah will restore life to those who have died."
+      },
+      "cita": "Juan 5:28-29",
+      "categoria": "Esperanza",
+      "link": "https://www.jw.org/es/biblioteca/libros/buena-noticia-resurreccion/"
+    },
+    {
+      "titulo": {
+        "es": "¿Qué es la Biblia?",
+        "en": "What is the Bible?"
+      },
+      "respuesta": {
+        "es": "Es la Palabra inspirada de Dios para guiar a la humanidad.",
+        "en": "It is God’s inspired Word to guide humanity."
+      },
+      "cita": "2 Timoteo 3:16",
+      "categoria": "Doctrina",
+      "link": "https://www.jw.org/es/biblioteca/libros/buena-noticia-biblia-confiable/"
+    },
+    {
+      "titulo": {
+        "es": "¿Por qué debemos orar a Dios?",
+        "en": "Why should we pray to God?"
+      },
+      "respuesta": {
+        "es": "Jehová desea que nos comuniquemos con Él como un Padre amoroso.",
+        "en": "Jehovah wants us to communicate with Him as a loving Father."
+      },
+      "cita": "Filipenses 4:6",
+      "categoria": "Conducta Cristiana",
+      "link": "https://www.jw.org/es/biblioteca/libros/buena-noticia-orar-a-dios/"
+    },
+    {
+      "titulo": {
+        "es": "¿Qué hará Dios por la humanidad?",
+        "en": "What will God do for humanity?"
+      },
+      "respuesta": {
+        "es": "Eliminará el sufrimiento y hará de la Tierra un paraíso.",
+        "en": "He will eliminate suffering and turn Earth into a paradise."
+      },
+      "cita": "Apocalipsis 21:3-4",
+      "categoria": "Esperanza",
+      "link": "https://www.jw.org/es/biblioteca/videos/libros-apocalipsis-vision-paraiso/"
+    },
+    {
+      "titulo": {
+        "es": "¿Qué propósito tiene la vida?",
+        "en": "What is the purpose of life?"
+      },
+      "respuesta": {
+        "es": "Conocer a Jehová y vivir para siempre en una Tierra paradisíaca.",
+        "en": "To know Jehovah and live forever in a paradise Earth."
+      },
+      "cita": "Juan 17:3",
+      "categoria": "Doctrina",
+      "link": "https://www.jw.org/es/biblioteca/libros/buena-noticia-proposito-dios/"
+    },
+    {
+      "titulo": {
+        "es": "¿Quién es Satanás?",
+        "en": "Who is Satan?"
+      },
+      "respuesta": {
+        "es": "Un ángel rebelde que se convirtió en el enemigo de Dios.",
+        "en": "A rebellious angel who became God’s enemy."
+      },
+      "cita": "Apocalipsis 12:9",
+      "categoria": "Doctrina",
+      "link": "https://www.jw.org/es/biblioteca/revistas/g201502/satanas-quien-es/"
+    }
+  ]
+}

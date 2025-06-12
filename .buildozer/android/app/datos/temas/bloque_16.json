@@ -1,0 +1,129 @@
+{
+  "bloque": 16,
+  "descripcion": {
+    "es": "Fundamentos espirituales y esperanza bíblica para fortalecer la fe.",
+    "en": "Spiritual foundations and Bible hope to strengthen faith."
+  },
+  "temas": [
+    {
+      "titulo": {
+        "es": "¿Por qué debemos leer la Biblia todos los días?",
+        "en": "Why should we read the Bible every day?"
+      },
+      "respuesta": {
+        "es": "La lectura diaria fortalece nuestra fe y nos guía en la vida.",
+        "en": "Daily reading strengthens our faith and guides us in life."
+      },
+      "cita": "Salmo 1:1-2",
+      "categoria": "Doctrina"
+    },
+    {
+      "titulo": {
+        "es": "¿Qué esperanza ofrece la Biblia a quienes han perdido a un ser querido?",
+        "en": "What hope does the Bible offer to those who have lost a loved one?"
+      },
+      "respuesta": {
+        "es": "Promete la resurrección de los muertos.",
+        "en": "It promises the resurrection of the dead."
+      },
+      "cita": "Juan 5:28-29",
+      "categoria": "Esperanza"
+    },
+    {
+      "titulo": {
+        "es": "¿Qué dice la Biblia sobre la humildad?",
+        "en": "What does the Bible say about humility?"
+      },
+      "respuesta": {
+        "es": "Jehová favorece a los humildes y se opone a los orgullosos.",
+        "en": "Jehovah favors the humble and opposes the proud."
+      },
+      "cita": "Santiago 4:6",
+      "categoria": "Conducta"
+    },
+    {
+      "titulo": {
+        "es": "¿Cómo muestra Jehová su amor por la humanidad?",
+        "en": "How does Jehovah show his love for humanity?"
+      },
+      "respuesta": {
+        "es": "Dio a su Hijo para que tengamos vida eterna.",
+        "en": "He gave His Son so we may have eternal life."
+      },
+      "cita": "Juan 3:16",
+      "categoria": "Doctrina"
+    },
+    {
+      "titulo": {
+        "es": "¿Qué enseña la Biblia sobre el uso del tiempo?",
+        "en": "What does the Bible teach about the use of time?"
+      },
+      "respuesta": {
+        "es": "Debemos usar bien nuestro tiempo porque los días son malos.",
+        "en": "We should use our time wisely because the days are wicked."
+      },
+      "cita": "Efesios 5:15-16",
+      "categoria": "Conducta"
+    },
+    {
+      "titulo": {
+        "es": "¿Qué dice la Biblia sobre el materialismo?",
+        "en": "What does the Bible say about materialism?"
+      },
+      "respuesta": {
+        "es": "No podemos servir a Dios y a las riquezas.",
+        "en": "We cannot serve both God and wealth."
+      },
+      "cita": "Mateo 6:24",
+      "categoria": "Debates"
+    },
+    {
+      "titulo": {
+        "es": "¿Qué actitud debemos tener durante las pruebas?",
+        "en": "What attitude should we have during trials?"
+      },
+      "respuesta": {
+        "es": "Debemos mantenernos firmes y confiar en Jehová.",
+        "en": "We should remain firm and trust in Jehovah."
+      },
+      "cita": "Santiago 1:12",
+      "categoria": "Esperanza"
+    },
+    {
+      "titulo": {
+        "es": "¿Cómo debemos tratar a los demás según la Biblia?",
+        "en": "How should we treat others according to the Bible?"
+      },
+      "respuesta": {
+        "es": "Como queremos que nos traten a nosotros.",
+        "en": "As we would like to be treated."
+      },
+      "cita": "Mateo 7:12",
+      "categoria": "Conducta"
+    },
+    {
+      "titulo": {
+        "es": "¿Qué dice la Biblia sobre el lenguaje ofensivo?",
+        "en": "What does the Bible say about offensive language?"
+      },
+      "respuesta": {
+        "es": "Nuestra palabra debe ser siempre agradable y edificante.",
+        "en": "Our speech should always be pleasant and uplifting."
+      },
+      "cita": "Efesios 4:29",
+      "categoria": "Conducta"
+    },
+    {
+      "titulo": {
+        "es": "¿Qué enseña la Biblia sobre el temor a Dios?",
+        "en": "What does the Bible teach about fearing God?"
+      },
+      "respuesta": {
+        "es": "El temor de Jehová es el principio de la sabiduría.",
+        "en": "The fear of Jehovah is the beginning of wisdom."
+      },
+      "cita": "Proverbios 9:10",
+      "categoria": "Doctrina"
+    }
+  ]
+}

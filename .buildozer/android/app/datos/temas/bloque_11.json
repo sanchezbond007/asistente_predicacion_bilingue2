@@ -1,0 +1,129 @@
+{
+  "bloque": 11,
+  "descripcion": {
+    "es": "Este bloque aborda la lealtad, el materialismo, el autocontrol y el perdón en la vida cristiana.",
+    "en": "This block addresses loyalty, materialism, self-control, and forgiveness in Christian life."
+  },
+  "temas": [
+    {
+      "titulo": {
+        "es": "¿Cómo se demuestra la lealtad a Dios?",
+        "en": "How is loyalty to God demonstrated?"
+      },
+      "respuesta": {
+        "es": "Manteniéndose fiel bajo pruebas y obedeciendo sus mandamientos.",
+        "en": "By remaining faithful under trial and obeying His commandments."
+      },
+      "cita": "Salmo 31:23",
+      "categoria": "Conducta"
+    },
+    {
+      "titulo": {
+        "es": "¿Qué dice la Biblia sobre el racismo?",
+        "en": "What does the Bible say about racism?"
+      },
+      "respuesta": {
+        "es": "Dios no hace distinción entre personas. Todos somos iguales ante Él.",
+        "en": "God does not show partiality. We are all equal before Him."
+      },
+      "cita": "Hechos 10:34-35",
+      "categoria": "Debates"
+    },
+    {
+      "titulo": {
+        "es": "¿Qué enseña la Biblia sobre el materialismo?",
+        "en": "What does the Bible teach about materialism?"
+      },
+      "respuesta": {
+        "es": "No debemos poner las cosas materiales por encima de nuestra espiritualidad.",
+        "en": "We must not put material things above our spirituality."
+      },
+      "cita": "Mateo 6:24",
+      "categoria": "Debates"
+    },
+    {
+      "titulo": {
+        "es": "¿Cuál es la recompensa de ser íntegro?",
+        "en": "What is the reward for being upright?"
+      },
+      "respuesta": {
+        "es": "Dios protege y bendice a quienes se mantienen leales en todo momento.",
+        "en": "God protects and blesses those who remain loyal at all times."
+      },
+      "cita": "Salmo 84:11",
+      "categoria": "Conducta"
+    },
+    {
+      "titulo": {
+        "es": "¿Qué dice la Biblia sobre el autocontrol?",
+        "en": "What does the Bible say about self-control?"
+      },
+      "respuesta": {
+        "es": "Es parte del fruto del espíritu y nos ayuda a tomar decisiones sabias.",
+        "en": "It is part of the fruit of the spirit and helps us make wise decisions."
+      },
+      "cita": "Gálatas 5:22-23",
+      "categoria": "Conducta"
+    },
+    {
+      "titulo": {
+        "es": "¿Qué es la justicia de Dios?",
+        "en": "What is God’s justice?"
+      },
+      "respuesta": {
+        "es": "Es perfecta, imparcial y basada en amor y verdad.",
+        "en": "It is perfect, impartial, and based on love and truth."
+      },
+      "cita": "Deuteronomio 32:4",
+      "categoria": "Doctrina"
+    },
+    {
+      "titulo": {
+        "es": "¿Por qué debemos perdonar a otros?",
+        "en": "Why should we forgive others?"
+      },
+      "respuesta": {
+        "es": "Porque así imitamos a Dios y facilitamos la paz entre hermanos.",
+        "en": "Because in doing so we imitate God and promote peace among brothers."
+      },
+      "cita": "Colosenses 3:13",
+      "categoria": "Conducta"
+    },
+    {
+      "titulo": {
+        "es": "¿Qué dice la Biblia sobre las apuestas y el juego?",
+        "en": "What does the Bible say about gambling?"
+      },
+      "respuesta": {
+        "es": "Promueven la codicia y son incompatibles con el amor a Dios.",
+        "en": "They promote greed and are incompatible with love for God."
+      },
+      "cita": "1 Timoteo 6:9-10",
+      "categoria": "Conducta"
+    },
+    {
+      "titulo": {
+        "es": "¿Qué actitud debemos tener hacia la corrección?",
+        "en": "What attitude should we have toward correction?"
+      },
+      "respuesta": {
+        "es": "Aceptarla con humildad como expresión del amor de Dios.",
+        "en": "Accept it with humility as an expression of God’s love."
+      },
+      "cita": "Proverbios 3:11-12",
+      "categoria": "Conducta"
+    },
+    {
+      "titulo": {
+        "es": "¿Qué enseña la Biblia sobre el chisme?",
+        "en": "What does the Bible teach about gossip?"
+      },
+      "respuesta": {
+        "es": "El chisme destruye amistades y es desaprobado por Dios.",
+        "en": "Gossip destroys friendships and is disapproved by God."
+      },
+      "cita": "Proverbios 20:19",
+      "categoria": "Conducta"
+    }
+  ]
+}

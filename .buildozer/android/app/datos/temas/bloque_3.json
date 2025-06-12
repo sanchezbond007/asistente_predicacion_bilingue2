@@ -1,0 +1,138 @@
+{
+  "bloque": 3,
+  "descripcion": {
+    "es": "Este bloque aborda creencias erróneas, esperanza para el futuro y conducta cristiana.",
+    "en": "This block addresses false beliefs, future hope, and Christian conduct."
+  },
+  "temas": [
+    {
+      "titulo": {
+        "es": "¿Es bíblica la doctrina de la Trinidad?",
+        "en": "Is the Trinity a Bible teaching?"
+      },
+      "respuesta": {
+        "es": "No. La Biblia enseña que Jehová es uno y Jesús es su Hijo.",
+        "en": "No. The Bible teaches that Jehovah is one and Jesus is His Son."
+      },
+      "cita": "Juan 14:28",
+      "categoria": "Debate Bíblico",
+      "link": "https://www.jw.org/es/biblioteca/libros/buena-noticia-trinidad/"
+    },
+    {
+      "titulo": {
+        "es": "¿Quién gobierna el mundo actualmente?",
+        "en": "Who currently rules the world?"
+      },
+      "respuesta": {
+        "es": "Satanás es el gobernante temporal hasta que Jehová lo elimine.",
+        "en": "Satan is the temporary ruler until Jehovah removes him."
+      },
+      "cita": "2 Corintios 4:4",
+      "categoria": "Doctrina",
+      "link": "https://www.jw.org/es/biblioteca/revistas/wp20141201/quien-gobierna-el-mundo/"
+    },
+    {
+      "titulo": {
+        "es": "¿Qué es el Armagedón?",
+        "en": "What is Armageddon?"
+      },
+      "respuesta": {
+        "es": "La guerra final de Jehová contra los sistemas humanos injustos.",
+        "en": "Jehovah’s final war against unrighteous human systems."
+      },
+      "cita": "Apocalipsis 16:14,16",
+      "categoria": "Esperanza",
+      "link": "https://www.jw.org/es/biblioteca/revistas/g201510/armagedon-guerra-final/"
+    },
+    {
+      "titulo": {
+        "es": "¿Qué esperanza hay para la Tierra?",
+        "en": "What hope is there for the Earth?"
+      },
+      "respuesta": {
+        "es": "Será transformada en un paraíso para los justos.",
+        "en": "It will be transformed into a paradise for the righteous."
+      },
+      "cita": "Salmo 37:29",
+      "categoria": "Esperanza",
+      "link": "https://www.jw.org/es/biblioteca/libros/buena-noticia-paraiso-tierra/"
+    },
+    {
+      "titulo": {
+        "es": "¿Qué es el bautismo cristiano?",
+        "en": "What is Christian baptism?"
+      },
+      "respuesta": {
+        "es": "Una muestra pública de dedicación a Jehová.",
+        "en": "A public demonstration of dedication to Jehovah."
+      },
+      "cita": "Mateo 28:19",
+      "categoria": "Conducta Cristiana",
+      "link": "https://www.jw.org/es/biblioteca/libros/buena-noticia-bautismo/"
+    },
+    {
+      "titulo": {
+        "es": "¿Debemos participar en política?",
+        "en": "Should we participate in politics?"
+      },
+      "respuesta": {
+        "es": "No. Jesús dijo que sus discípulos no eran parte del mundo.",
+        "en": "No. Jesus said his disciples were no part of the world."
+      },
+      "cita": "Juan 17:16",
+      "categoria": "Conducta Cristiana",
+      "link": "https://www.jw.org/es/biblioteca/revistas/g201405/los-cristianos-y-la-politica/"
+    },
+    {
+      "titulo": {
+        "es": "¿Se celebra la Navidad en la Biblia?",
+        "en": "Is Christmas celebrated in the Bible?"
+      },
+      "respuesta": {
+        "es": "No. Sus orígenes son paganos y no fue ordenada por Jesús.",
+        "en": "No. Its origins are pagan and it was not commanded by Jesus."
+      },
+      "cita": "Mateo 2:1-12",
+      "categoria": "Debate Bíblico",
+      "link": "https://www.jw.org/es/biblioteca/revistas/g201312/origen-navidad/"
+    },
+    {
+      "titulo": {
+        "es": "¿Qué dice la Biblia sobre la violencia?",
+        "en": "What does the Bible say about violence?"
+      },
+      "respuesta": {
+        "es": "Los cristianos deben ser pacíficos y no recurrir a la violencia.",
+        "en": "Christians should be peaceful and not resort to violence."
+      },
+      "cita": "Mateo 5:9",
+      "categoria": "Conducta Cristiana",
+      "link": "https://www.jw.org/es/biblioteca/libros/buena-noticia-violencia/"
+    },
+    {
+      "titulo": {
+        "es": "¿Está bien venerar a María?",
+        "en": "Is it right to venerate Mary?"
+      },
+      "respuesta": {
+        "es": "No. Fue una sierva fiel, pero la adoración es solo a Jehová.",
+        "en": "No. She was a faithful servant, but worship belongs only to Jehovah."
+      },
+      "cita": "Lucas 1:38",
+      "categoria": "Debate Bíblico"
+    },
+    {
+      "titulo": {
+        "es": "¿Qué enseña la Biblia sobre el uso de imágenes religiosas?",
+        "en": "What does the Bible teach about religious images?"
+      },
+      "respuesta": {
+        "es": "La adoración a imágenes está prohibida. Jehová es espíritu.",
+        "en": "Image worship is forbidden. Jehovah is spirit."
+      },
+      "cita": "Isaías 42:8",
+      "categoria": "Conducta Cristiana",
+      "link": "https://www.jw.org/es/biblioteca/revistas/g201307/adoracion-imagenes/"
+    }
+  ]
+}

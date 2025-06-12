@@ -1,0 +1,129 @@
+{
+  "bloque": 15,
+  "descripcion": {
+    "es": "Este bloque cubre temas como la lectura bíblica, oración, confianza, amor, limpieza moral y profecías.",
+    "en": "This block covers topics such as Bible reading, prayer, trust, love, moral cleanness, and prophecies."
+  },
+  "temas": [
+    {
+      "titulo": {
+        "es": "¿Qué efecto tiene la lectura bíblica en los jóvenes?",
+        "en": "What effect does Bible reading have on young people?"
+      },
+      "respuesta": {
+        "es": "Los hace sabios para la salvación y les da guía moral.",
+        "en": "It makes them wise for salvation and gives moral guidance."
+      },
+      "cita": "2 Timoteo 3:15",
+      "categoria": "Doctrina"
+    },
+    {
+      "titulo": {
+        "es": "¿Qué papel tiene la congregación en tiempos difíciles?",
+        "en": "What role does the congregation play in difficult times?"
+      },
+      "respuesta": {
+        "es": "Brinda consuelo, fortaleza y apoyo mutuo.",
+        "en": "It provides comfort, strength, and mutual support."
+      },
+      "cita": "1 Tesalonicenses 5:11",
+      "categoria": "Conducta"
+    },
+    {
+      "titulo": {
+        "es": "¿Cómo afecta la oración a nuestra vida espiritual?",
+        "en": "How does prayer affect our spiritual life?"
+      },
+      "respuesta": {
+        "es": "Nos mantiene conectados con Jehová y fortalece nuestra fe.",
+        "en": "It keeps us connected to Jehovah and strengthens our faith."
+      },
+      "cita": "Salmo 55:22",
+      "categoria": "Doctrina"
+    },
+    {
+      "titulo": {
+        "es": "¿Qué esperanza hay para los que no han conocido a Dios?",
+        "en": "What hope is there for those who have not known God?"
+      },
+      "respuesta": {
+        "es": "Tendrán la oportunidad de aprender sobre Él durante el reinado de Cristo.",
+        "en": "They will have the opportunity to learn about Him during Christ’s reign."
+      },
+      "cita": "Hechos 17:30-31",
+      "categoria": "Esperanza"
+    },
+    {
+      "titulo": {
+        "es": "¿Cómo demostrar que confiamos en Jehová?",
+        "en": "How can we show we trust in Jehovah?"
+      },
+      "respuesta": {
+        "es": "Obedeciendo su Palabra incluso en circunstancias difíciles.",
+        "en": "By obeying His Word even in difficult situations."
+      },
+      "cita": "Proverbios 3:5-6",
+      "categoria": "Conducta"
+    },
+    {
+      "titulo": {
+        "es": "¿Qué dice la Biblia sobre el temor al hombre?",
+        "en": "What does the Bible say about fear of man?"
+      },
+      "respuesta": {
+        "es": "Nos puede hacer tropezar; debemos temer solo a Dios.",
+        "en": "It can cause us to stumble; we should fear only God."
+      },
+      "cita": "Proverbios 29:25",
+      "categoria": "Conducta"
+    },
+    {
+      "titulo": {
+        "es": "¿Qué es la limpieza moral según la Biblia?",
+        "en": "What is moral cleanness according to the Bible?"
+      },
+      "respuesta": {
+        "es": "Evitar inmoralidad, pensamientos impuros y vivir conforme a la santidad.",
+        "en": "Avoiding immorality, impure thoughts, and living according to holiness."
+      },
+      "cita": "1 Tesalonicenses 4:3-5",
+      "categoria": "Conducta"
+    },
+    {
+      "titulo": {
+        "es": "¿Qué enseña la Biblia sobre el amor verdadero?",
+        "en": "What does the Bible teach about true love?"
+      },
+      "respuesta": {
+        "es": "Es paciente, bondadoso, no busca lo suyo y nunca falla.",
+        "en": "It is patient, kind, does not seek its own, and never fails."
+      },
+      "cita": "1 Corintios 13:4-8",
+      "categoria": "Conducta"
+    },
+    {
+      "titulo": {
+        "es": "¿Por qué confiar en las profecías bíblicas?",
+        "en": "Why trust in Bible prophecies?"
+      },
+      "respuesta": {
+        "es": "Porque se han cumplido y se seguirán cumpliendo con precisión.",
+        "en": "Because they have been fulfilled and will continue to be fulfilled accurately."
+      },
+      "cita": "Isaías 46:10",
+      "categoria": "Doctrina"
+    },
+    {
+      "titulo": {
+        "es": "¿Qué enseña la Biblia sobre el fin del sistema?",
+        "en": "What does the Bible teach about the end of the system?"
+      },
+      "respuesta": {
+        "es": "Será reemplazado por el Reino de Dios que traerá justicia eterna.",
+        "en": "It will be replaced by God's Kingdom, which will bring everlasting justice."
+      },
+      "cita": "Daniel 2:44",
+      "categoria": "Esperanza"
+    }
+  ]
+}
